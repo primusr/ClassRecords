@@ -1,0 +1,125 @@
+In the _______ random-access method collision is avoided.{
+	~CSMA/CD
+	=CSMA/CA
+	~ALOHA
+	~token-passing
+}
+	
+In the 1-persistent approach, when a station finds an idle line, it _______.{
+	=sends immediately
+	~waits 0.1 s before sending
+	~waits 1 s before sending
+	~waits a time equal to 1 − p seconds before sending
+}
+	
+_______ requires one primary station and one or more secondary stations.{
+	~Token ring
+	~Reservation
+	=Polling
+	~CSMA
+}
+		
+In the p-persistent approach, when a station finds an idle line, it _______.{
+	~sends immediately
+	~waits 1 s before sending
+	~sends with probability 1 − p
+	=sends with probability p
+}
+	
+The 1-persistent approach can be considered a special case of the p-persistent approach with p equal to _______.{
+	=1.0
+	~2.0
+	~0.1
+	~0.5
+}
+	
+In the reservation access method, if there are 10 stations on a network, then there are _______ reservation minislots in the reservation frame.{
+	=10
+	~11
+	~5
+	~9
+}
+	
+_______ is a controlled-access protocol.{
+	~FDMA
+	~TDMA
+	~CSMA
+	=Reservation
+}
+		
+_______ is (are) a channelization protocol.{
+	~FDMA
+	~TDMA
+	~CDMA
+	=All the choices are correct
+}
+		
+In the _______ random-access method, stations do not sense the medium.{
+	~CSMA/CA
+	=ALOHA
+	~CSMA/CD
+	~Ethernet
+}
+	
+Which of the following is an example of a random-access protocol?{
+	~Polling
+	~FDMA
+	~Token passing
+	=None of the choices are correct
+}
+		
+Which of the following is an example of a controlled-access protocol?{
+	~CDMA
+	~FDMA
+	=Token passing
+	~None of the choices are correct
+}
+		
+The vulnerable time for a pure ALOHA is __________ the one for slotted ALOHA.{
+	~less than
+	=greater than
+	~equal to
+	~None of the choices are correct
+}
+		
+The vulnerable time for CSMA is ___________.{
+	~Tp
+	=2 x Tp
+	~3 x Tp
+	~None of the choices are correct
+}
+		
+We need RTS and CTS packets in ____________ protocol.{
+	=CDMA/CA
+	~CDMA/CD
+	~token-passing
+	~None of the choices are correct
+}
+	
+In FDMA, we use different ___________ to achieve channelization.{
+	=frequency ranges
+	~time slots
+	~codes
+	~None of the choices are correct.
+}
+		
+In CDMA, we use different ___________ to achieve channelization.{
+	~frequency ranges
+	~time slots
+	=codes
+	~None of the choices are correct
+}
+		
+In TDMA, we use different ___________ to achieve channelization.{
+	~frequency ranges
+	=time slots
+	~codes
+	~None of the choices are correct
+}
+		
+Walsh tables are used in _________________.{
+	~FDMA
+	=TDMA
+	~CDMA
+	~None of the choices are correct.
+}

@@ -1,0 +1,996 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ITE3-MIDTERM</text>
+    </category>
+  </question>
+  <question type="matching">
+    <name>
+      <text>Match the following terms to its corresponding definition.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Match the following terms to its corresponding definition.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>audience definition</text>
+      <answer>
+        <text>A profile of your average user.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>complete URL</text>
+      <answer>
+        <text>An address of documents and other resources on the web that includes the protocol the browser uses to access the file, service, domain name, the relative path, and the filename.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>extranet</text>
+      <answer>
+        <text>A private part of a company's intranet that uses the Internet to securely share
+part of an organization's information.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>File Transfer Protocol (FTP)</text>
+      <answer>
+        <text>A standard communications protocol for transferring files over the Internet.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>freeware</text>
+      <answer>
+        <text>Programs available free of charge or with an optional donation fee.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Internet service provider (ISP)</text>
+      <answer>
+        <text>A company that provides Internet access and web site hosting services to individuals and organizations.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>intranet</text>
+      <answer>
+        <text>A private collection of networks contained within an organization.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>page view</text>
+      <answer>
+        <text>The number of times a web page is viewed by a user.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>partial URL</text>
+      <answer>
+        <text>A Uniform Resource Locator (URL) that omits the protocol and server name and only specifies the path to the file relative to one another on the same server.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>requirements</text>
+      <answer>
+        <text>The list of customer needs for a web site, such as search capability, tabbed menu navigation, specific color and branding requirements, or anything else that will create the desired outcome for the site.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Secure Socket Layer (SSL)</text>
+      <answer>
+        <text>Communications software that allows transmission of encrypted secure messages over the Internet.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>shareware</text>
+      <answer>
+        <text>Software that is distributed free so users can try it before they buy it. Users then can register the software for a relatively small fee compared to software produced commercially.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>site specification</text>
+      <answer>
+        <text>The design document for your web site.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Structured Query Language (SQL)</text>
+      <answer>
+        <text>A programming language that lets you select information from a database.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>taxonomy</text>
+      <answer>
+        <text>A classification and naming of content in a hierarchical structure.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Uniform Resource Locator (URL)</text>
+      <answer>
+        <text>The global address of documents and other resources on the web.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>virtual machine</text>
+      <answer>
+        <text>A software emulator that acts like a physical computer.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>web analytics</text>
+      <answer>
+        <text>The analysis of statistics that are gathered by web servers.</text>
+      </answer>
+    </subquestion>
+  </question>
+  <question type="matching">
+    <name>
+      <text>Match the following terms to its corresponding description.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Match the following terms to its corresponding description.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>!important</text>
+      <answer>
+        <text>A CSS keyword that lets the user override the author's style setting for a particular element.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>cascade</text>
+      <answer>
+        <text>Style sheets originate from three sources: the author, the user, and the browser.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>child element</text>
+      <answer>
+        <text>An HTML element contained within another element.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>declaration</text>
+      <answer>
+        <text>The declaration portion of a style rule consists of a property name and value.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>inheritance</text>
+      <answer>
+        <text>The order of CSS rules dictating that child elements inherit rules from parent elements.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>&lt;link&gt; element</text>
+      <answer>
+        <text>An HTML element that lets you establish document relationships, such as linking to an external style sheet.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>parent element</text>
+      <answer>
+        <text>An HTML element that contains child elements.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>property</text>
+      <answer>
+        <text>A quality or characteristic stated in a style rule, such as color, font-size, or margin. The property is a part of the style rule declaration.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>pseudo-class</text>
+      <answer>
+        <text>An element that selects elements based on characteristics other than their element name.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>pseudo-element</text>
+      <answer>
+        <text>An element that lets you change other aspects of a document that are not classified by elements, such as applying style rules to the first letter or first line of a paragraph.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>recommendation</text>
+      <answer>
+        <text>The final stage of development by the W C, indicating that a technology release has been reviewed and tested extensively.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>selector</text>
+      <answer>
+        <text>The part of a style rule that determines which HTML element to match.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>style rule</text>
+      <answer>
+        <text>The basic unit of expression in CSS. It is composed of two parts: a selector and a declaration. It also expresses the style information for an element.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>style sheet</text>
+      <answer>
+        <text>A set of style rules that describes a document's display characteristics.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>type selector</text>
+      <answer>
+        <text>A CSS selector that applies a rule to every instance of the element in a document.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>universal selector</text>
+      <answer>
+        <text>A selector that lets you quickly select groups of elements and apply a style rule.</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>value</text>
+      <answer>
+        <text>The precise specification of a property in a style rule, based on the allowable values for the property.</text>
+      </answer>
+    </subquestion>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>How do you make a list not display bullet points?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>How do you make a list not display bullet points?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>list-style-type: no-bullet</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>list: none</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>bulletpoints: none</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>list-style-type: none</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>In the following code snippet, what value is given for the left ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>In the following code snippet, what value is given for the left margin:
+margin: 5px 10px 3px 8px;</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>3px</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>10px</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>8px</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>5px</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What property is used to change the text color of an element?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What property is used to change the text color of an element?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>fontcolor:</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>textcolor:</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>color:</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>font-color:</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following defines a measurement in screen pixels?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following defines a measurement in screen pixels?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>px</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>vh</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>vw</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>vmin</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following defines a relative measurement for the height of a ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following defines a relative measurement for the height of a font in em spaces?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>%</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>cm</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>em</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ex</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Browser Safe Colors?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following is correct about Browser Safe Colors?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>These are 216 colors which are supposed to be most safe and computer independent colors.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>These colors vary from hexa code 000000 to FFFFFF.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>These colors are safe to use because they ensure that all computers would display the colors correctly when running a 256 color palette.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>All of the above.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following property changes the width of left border?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following property changes the width of left border?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>:border-bottom-width</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>:border-top-width</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>:border-left-width</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>:border-right-width</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following property is used to capitalize text or convert text to...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following property is used to capitalize text or convert text to uppercase or lowercase letters?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>text-indent</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>text-align</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>text-decoration</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>text-transform</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following property is used to set the color of a text?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following property is used to set the color of a text?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>color</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>direction</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>letter-spacing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>word-spacing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following property of a table element allows browsers to speed ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following property of a table element allows browsers to speed up layout of a table by using the first width properties it comes across for the rest of a column rather than having to load the whole table before rendering it?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>:table-layout</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>:border-spacing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>:caption-side</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>:empty-cells</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following property serves as shorthand for the marker properties?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following property serves as shorthand for the marker properties?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>list-style-type</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>list-style-position</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>list-style-image</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>list-style</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following selector matches the name of any element type?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following selector matches the name of any element type?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>The Type Selector</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>The Universal Selector</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>The Descendant Selector</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>The Class Selector</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following value of cursor shows it as a pointing hand?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following value of cursor shows it as a pointing hand?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>crosshair</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>default</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>pointer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>move</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which snippet of CSS is commonly used to center a website horizontally?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which snippet of CSS is commonly used to center a website horizontally?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>site-align: center;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>margin: center;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>margin: auto 0;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>margin: 0 auto;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,2442 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/IT4-PRELIM</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>A link in a network which slows the throughput down is known as?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>A link in a network which slows the throughput down is known as?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>{</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network edge</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>bottleneck link</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>tier-1 ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Both fiber and coaxial cable are employed in this system, it is often ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Both fiber and coaxial cable are employed in this system, it is often referred to as?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>end systems (hosts)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>hybrid fiber coax (HFC)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>transmission delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Commonly used for computer networks within a building</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Commonly used for computer networks within a building</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Unshielded twisted pair (UTP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>fiber to the home (FTTH)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>TCP and IP (TCP/IP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Exchange Point (IXP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Component of FTTH which connects the ONT to the CO</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Component of FTTH which connects the ONT to the CO</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>digital subscriber line</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>transmission rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>hybrid fiber coax (HFC)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>optical line terminator (OLT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Data in the link layer is known as a</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Data in the link layer is known as a</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>N*L/R</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>data in the network layer is known as a</text>
+    </name>
+    <questiontext format="HTML">
+      <text>data in the network layer is known as a</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>datagram</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>L/R</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>data in the transport layer is known as a</text>
+    </name>
+    <questiontext format="HTML">
+      <text>data in the transport layer is known as a</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>End systems are connected together by a network of ______ and __________.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>End systems are connected together by a network of ______ and __________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>circuit switching and packet switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>communication links and packet switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>routers and link-layer switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Engineering Task Force</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>formula for d end-end (the end to end delay)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>formula for d end-end (the end to end delay)</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>propagation delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>customer and provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>TCP and IP (TCP/IP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>N(d proc + d trans + d prop)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>IETF is the abbreviation for</text>
+    </name>
+    <questiontext format="HTML">
+      <text>IETF is the abbreviation for</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>optical line terminator</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Internet Engineering Task Force</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Service Provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Exchange Point</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>In the network of networks an an access ISP is said to be the ________ and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>In the network of networks an an access ISP is said to be the ________ and the global transit ISP is said to be the ________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>customer and provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Service Provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>central office</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Laptops, smartphones, tablets, TVs, gaming consoles, Web cams, automobiles, ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Laptops, smartphones, tablets, TVs, gaming consoles, Web cams, automobiles, environmental sensing devices, picture frames, and home electrical and security systems are all devices that fall under the category of what?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>end systems (hosts)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>access networks</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>route (path)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packet loss</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Method in which a packet switch must receive the entire packet before it can ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Method in which a packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>regional ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>store-and-forward transmission</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>customer and provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Method to move data through a network of links and switches which reserves ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Method to move data through a network of links and switches which reserves communication sessions between end systems is known as?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Protocol</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>circuit-switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>route</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Multiple end systems that exchange data with each other</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Multiple end systems that exchange data with each other</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>customer and provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Distributed applications</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>TCP and IP (TCP/IP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>circuit-switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>One of the two categories that hosts are divided into; PCs, smartphones, and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>One of the two categories that hosts are divided into; PCs, smartphones, and other mobile devices.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>L/R</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>One of the two categories that hosts are divided into; powerful machines that...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>One of the two categories that hosts are divided into; powerful machines that store and distribute Web pages, stream video, relay e-mail.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Packet switches have multiple links attached to them. For each attached link ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Packet switches have multiple links attached to them. For each attached link the packet switch has an ____________, which stores packets that the router is about to send into that link.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>output buffer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>central office</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>route (path)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network edge</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>packets experience this as it waits to be transmitted onto the link</text>
+    </name>
+    <questiontext format="HTML">
+      <text>packets experience this as it waits to be transmitted onto the link</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>queuing delays</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>queuing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>reserves space for communication by partitioning the physical media into ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>reserves space for communication by partitioning the physical media into frequencies</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>transmission delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>transmission rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Unshielded twisted pair (UTP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>frequency-division multiplexing (FDM)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Specifies how a program running on one end system asks the Internet ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>optical line terminator (OLT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Engineering Task Force</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Application Programming Interface (API)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>optical network terminator (ONT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Table that maps destination address to a routers outbound links</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Table that maps destination address to a routers outbound links</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>queuing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>forwarding table</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network edge</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The five layers of the internet protocol stack</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The five layers of the internet protocol stack</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>optical network terminator (ONT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Application, Transport, Network, Link, and Physical</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Application, Presentation, Session, Transport, Network, Link, Pysical</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Application Programming Interface (API)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The ISP which connects to a tier-1 ISP is known as a</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The ISP which connects to a tier-1 ISP is known as a</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>regional ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>central office</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>tier-1 ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The network that physically connects an end system to the first router also ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The network that physically connects an end system to the first router also known as the edge router.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>access networks</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The seven layers of the OSI model includes the following:</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The seven layers of the OSI model includes the following:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Application Programming Interface (API)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Application, Transport, Network, Link, and Physical</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Application, Presentation, Session, Transport, Network, Link, Pysical</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>optical network terminator (ONT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The speed of a link measured in bits/second.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The speed of a link measured in bits/second.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>transmission rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>processing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The time required to examine the packet's header and determine where to ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The time required to examine the packet's header and determine where to direct the packet.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>queuing delays</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>processing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>access networks</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>propagation delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The time required to propagate from the beginning of the link to router B</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The time required to propagate from the beginning of the link to router B</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>processing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>queuing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>transmission delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>propagation delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The two fundamental approaches to moving data through a network of links and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The two fundamental approaches to moving data through a network of links and switches.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>circuit switching and packet switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>customer and provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>circuit-switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>communication links and packet switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The two most prominent types of packet switches</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The two most prominent types of packet switches</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>communication links and packet switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>route (path)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>routers and link-layer switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>the width of the band in FDM</text>
+    </name>
+    <questiontext format="HTML">
+      <text>the width of the band in FDM</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>This occurs when either a packet arriving or an already-queued packet is ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>This occurs when either a packet arriving or an already-queued packet is dropped.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>datagram</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>packet loss</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>this small chunk of data travels through communication links and packet switches</text>
+    </name>
+    <questiontext format="HTML">
+      <text>this small chunk of data travels through communication links and packet switches</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packet loss</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Two common internet standards</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Two common internet standards</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network edge</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Two of the most important protocols in the internet.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Two of the most important protocols in the internet.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>TCP and IP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>route</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>circuit-switching</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Two types of optical-distribution network architectures</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Two types of optical-distribution network architectures</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>communication links and packet switches</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>active optical networks (AON) and passive optical networks (PON)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>optical line terminator (OLT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>optical network terminator (ONT)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Typically a stand-alone building with its own switches, which is a meeting ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Typically a stand-alone building with its own switches, which is a meeting point where multiple ISPs can peer together</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Unshielded twisted pair (UTP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Engineering Task Force</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Internet Exchange Point (IXP)</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet Service Provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Variable delays that depend on the level of congestion in the network.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Variable delays that depend on the level of congestion in the network.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>queuing delays</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>queuing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>processing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>IETF and RFCs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What part of the internet are end systems found?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What part of the internet are end systems found?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Network edge</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>regional ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>When transferring a large file from Host A to Host B across a computer ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>When transferring a large file from Host A to Host B across a computer network, if the file consists of F bits and the transfer takes T seconds for Host B to receive all F bits this rate takes F/T bits/sec.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>regional ISP</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>average throughput</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>instantaneous througput</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>central office</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of following term refers to the data in the application layer?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of following term refers to the data in the application layer?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>segment</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>message</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the amount of time required to push all of ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following refers to the amount of time required to push all of the packet's bits into the link?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>transmission delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>propagation delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>transmission rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>queuing delay</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following terms refers to the packages of information?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following terms refers to the packages of information?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>packets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>clients</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>servers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>packet loss</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="shortanswer">
+    <name>
+      <text>DSL is the abbreviation for?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>DSL is the abbreviation for?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>Digital Subscriber Line</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="shortanswer">
+    <name>
+      <text>ISP the abbreviation for?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>ISP the abbreviation for?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>Internet Service Provider</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="shortanswer">
+    <name>
+      <text>RFC is the abbreviation for</text>
+    </name>
+    <questiontext format="HTML">
+      <text>RFC is the abbreviation for</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>Request for Comments</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="shortanswer">
+    <name>
+      <text>The abbreviation CO stand for?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The abbreviation CO stand for?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>Central Office</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+</quiz>

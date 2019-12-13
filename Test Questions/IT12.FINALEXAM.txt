@@ -1,0 +1,699 @@
+Circuit switching can be divided into ________ categories.
+	two
+	three
+	four
+	None of the choices are correct
+
+ 	
+Packet switching can be divided into ________ categories.
+	two
+	three
+	four
+	None of the choices are correct
+
+ 	
+Circuit switching is normally used in ___________ layer.
+	physical
+	data-link
+	network
+	application
+
+
+Packet switching is normally used in ___________ layers.
+	physical and data-link
+	data-link and network
+	network and transport
+	transport and application
+
+
+Message switching is normally used in ___________ layer.
+	physical
+	data-link
+	network
+	application
+
+ 	
+In a circuit-switching network, we have ___________ phase(s).
+	one
+	two
+	three
+	None of the choices are correct
+
+
+In a datagram network, we have ___________ phase(s).
+	one
+	two
+	three
+	None of the choices are correct
+
+ 	
+In a virtual-switch network, we have ___________ phase(s).
+	one
+	two
+	three
+	None of the choices are correct
+
+	
+In a ___________ network, each packet is treated independently from all other packets.
+	circuit-switched
+	virtual-circuit
+	datagram
+	None of the choices are correct
+
+
+In a datagram network, the routing table is based on the ___________ in the packet.
+	flow label
+	destination address
+	VCI
+	None of the choices are correct
+
+
+In a virtual-circuit network, the routing table is based on the ___________ in the packet.
+	flow label
+	destination address
+	VCI
+	None of the choices are correct
+
+
+In a datagram network, the destination address ________________________.
+	remains the same from the source to the destination
+	changes at each switch
+	changes at the destination
+	None of the choices are correct
+
+
+In a datagram network, we need ______________ phase(s).
+	tear-down
+	setup
+	setup and tear-down
+	None of the choices are correct
+
+
+In a virtual-circuit network, we need ______________ phase(s).
+	tear-down
+	setup
+	setup and tear-down
+	None of the choices are correct
+
+
+In a __________network, all packets in a message follow the same path.
+	datagram
+	virtual-circuit
+	circuit-switched
+	None of the choices are correct
+
+
+In a __________network, each packet in a message may follow a different path.
+	datagram
+	virtual-circuit
+	circuit-switched
+	None of the choices are correct
+
+
+In the _______ random-access method collision is avoided.
+	CSMA/CD
+	CSMA/CA
+	ALOHA
+	token-passing
+
+	
+In the 1-persistent approach, when a station finds an idle line, it _______.
+	sends immediately
+	waits 0.1 s before sending
+	waits 1 s before sending
+	waits a time equal to 1 − p seconds before sending
+
+	
+_______ requires one primary station and one or more secondary stations.
+	Token ring
+	Reservation
+	Polling
+	CSMA
+
+		
+In the p-persistent approach, when a station finds an idle line, it _______.
+	sends immediately
+	waits 1 s before sending
+	sends with probability 1 − p
+	sends with probability p
+
+	
+The 1-persistent approach can be considered a special case of the p-persistent approach with p equal to _______.
+	1.0
+	2.0
+	0.1
+	0.5
+
+	
+In the reservation access method, if there are 10 stations on a network, then there are _______ reservation minislots in the reservation frame.
+	10
+	11
+	5
+	9
+
+	
+_______ is a controlled-access protocol.
+	FDMA
+	TDMA
+	CSMA
+	Reservation
+
+		
+_______ is (are) a channelization protocol.
+	FDMA
+	TDMA
+	CDMA
+	All the choices are correct
+
+		
+In the _______ random-access method, stations do not sense the medium.
+	CSMA/CA
+	ALOHA
+	CSMA/CD
+	Ethernet
+
+	
+Which of the following is an example of a random-access protocol?
+	Polling
+	FDMA
+	Token passing
+	None of the choices are correct
+
+		
+Which of the following is an example of a controlled-access protocol?
+	CDMA
+	FDMA
+	Token passing
+	None of the choices are correct
+
+		
+The vulnerable time for a pure ALOHA is __________ the one for slotted ALOHA.
+	less than
+	greater than
+	equal to
+	None of the choices are correct
+
+		
+The vulnerable time for CSMA is ___________.
+	Tp
+	2 x Tp
+	3 x Tp
+	None of the choices are correct
+
+		
+We need RTS and CTS packets in ____________ protocol.
+	CDMA/CA
+	CDMA/CD
+	token-passing
+	None of the choices are correct
+
+	
+In FDMA, we use different ___________ to achieve channelization.
+	frequency ranges
+	time slots
+	codes
+	None of the choices are correct.
+
+		
+In CDMA, we use different ___________ to achieve channelization.
+	frequency ranges
+	time slots
+	codes
+	None of the choices are correct
+
+		
+In TDMA, we use different ___________ to achieve channelization.
+	frequency ranges
+	time slots
+	codes
+	None of the choices are correct
+
+		
+Walsh tables are used in _________________.
+	FDMA
+	TDMA
+	CDMA
+	None of the choices are correct.
+
+
+	
+Three security goals are _______________________________________.
+	confidentiality, cryptography, and nonrepudiation
+	confidentiality, encryption, and decryption
+	confidentiality, integrity, and availability
+	None of the choices are correct
+
+		
+Which of the following attacks is threatening integrity?
+	Masquerading
+	Traffic Analysis
+	Denial of service
+	None of the choices are correct
+
+	
+Which of the following attacks is threatening availability?
+	Replaying
+	Modification
+	Denial of service
+	None of the choices are correct
+
+	
+_____________ means concealing the contents of a message by enciphering.
+	Steganography
+	Cryptography
+	Compressing
+	None of the choices are correct
+
+	
+______________means concealing the message by covering it with something else.
+	Cryptography
+	Steganography
+	Compressing
+	None of the choices are correct
+
+		
+In __________cryptography, the same key is used by the sender and the receiver.
+	symmetric-key
+	asymmetric-key
+	public-key
+	None of the choices are correct
+
+		
+In _________ cryptography, the same key is used in both directions.
+	symmetric-key
+	asymmetric-key
+	public-key
+	None of the choices are correct
+
+	
+_________ cryptography is often used for long messages.
+	Symmetric-key
+	Asymmetric-key
+	Public-key
+	None of the choices are correct
+
+		
+___________ cryptography is often used for short messages.
+	Symmetric-key
+	Asymmetric-key
+	Secret-key
+	None of the choices are correct
+
+		
+__________means that the sender and the receiver expect confidentiality.
+	Nonrepudiation
+	Integrity
+	Authentication
+	None of the choices are correct
+
+		
+___________ means that the data must arrive at the receiver exactly as they were sent.
+	Nonrepudiation
+	Message integrity
+	Authentication
+	None of the choices are correct
+
+		
+______________ can provide authentication, integrity, and nonrepudiation for a message.
+	Encryption/decryption
+	Digital signature
+	Compression
+	None of the choices are correct
+
+		
+Digital signature does not provide _________.
+	nonrepudiation
+	privacy
+	authentication
+	Provides all of the choices
+
+		
+In ___________, the identity of a party is verified once for the entire duration of system access.
+	entity authentication
+	message integrity
+	message authentication
+	None of the choices are correct
+
+		
+In __________ cryptography, everyone has access to everyone's public key.
+	symmetric-key
+	asymmetric-key
+	secret-key
+	None of the choices are correct
+
+		
+After a message is encrypted, it is called _______.
+	plaintext
+	ciphertext
+	cryptotext
+	None of the choices are correct
+
+		
+In the asymmetric-key method used for confidentiality, which key is publicly known?
+	Encryption key only
+	Decryption key only
+	Both keys
+	None of the choices are correct
+
+		
+In the asymmetric-key method used for confidentiality, the receiver uses his/her own ______________ to decrypt the message.
+	private key
+	public key
+	no key
+	None of the choices are correct
+
+	
+The RSA algorithm for confidentiality uses _______ cryptography.
+	asymmetric-key
+	symmetric-key
+	substitution
+	None of the choices are correct
+
+	
+In RSA, if user A wants to send an encrypted message to user B, the plaintext is encrypted with the public key of _______.
+	user A
+	user B
+	the network
+	None of the choices are correct
+
+	
+In the digital signature technique when the whole message is signed using an asymmetric key, the sender of the message uses _______ to sign the message.
+	his or her own symmetric key
+	his or her own private key
+	his or her own public key
+	None of the choices are correct
+
+		
+In the digital signature technique when the whole message is signed using an asymmetric key, the receiver of the message uses _______ to verify the signature.
+	her or his own public key
+	her or his own private key
+	the sender's public key
+	None of the choices are correct
+
+		
+A _______ is a trusted third party that solves the problem of symmetric-key distribution.
+	CA
+	KDC
+	TLS
+	firewall
+
+		
+A _______ certifies the binding between a public key and its owner.
+	CA
+	KDC
+	TLS
+	None of the choices are correct
+
+
+Which of the following statements about wired and wireless LANs is correct?
+	Both operate in the lower two layers of the TCP/IP protocol suite.
+	Wired LANs operate in the lower two layers and wireless LANs operate in the lower three layers of the TCP/IP protocol suite.
+	Wired LANs operate in the lower three layers and wireless LANs operate in the lower two layers of the TCP/IP protocol suite.
+	Both operate in the lower three layers of the TCP/IP protocol suite.
+
+	
+IEEE has defined the specifications for a wireless LAN, called _______, which covers the physical and data-link layers.
+	IEEE 802.3
+	IEEE 802.5
+	IEEE 802.11
+	IEEE 802.2
+
+		
+The CSMA/CD algorithm does not work in wireless LAN because
+	wireless host does not have enough power to work in a duplex mode.
+	of the hidden station problem.
+	signal fading could prevent a station at one end from hearing a collision at the other end.
+	all of the choices are correct.
+
+		
+In IEEE 802.11, a ___ is made of stationary or mobile wireless stations and an optional central base station, known as the access point (AP).
+	ESS
+	BSS
+	CSS
+	None of the choices are correct
+
+	
+In IEEE 802.11, a BSS without an AP is called _________.
+	an ad hoc architecture
+	an infrastructure network
+	either an ad hoc architecture or an infrastructure network
+	None of the choices are correct
+
+	
+In IEEE 802.11, a BSS with an AP is sometimes referred to as ____________.
+	an ad hoc architecture
+	an infrastructure network
+	either an ad hoc architecture or an infrastructure network
+	None of the choices are correct
+
+		
+In IEEE 802.11, communication between two stations in two different BSSs usually occurs via two ________.
+	BSSs
+	ESSs
+	APs
+	None of the choices are correct
+
+		
+In IEEE 802.11, a station with ________ mobility is either stationary (not moving) or moving only inside a BSS.
+	no-transition
+	BSS-transition
+	ESS-transition
+	None of the choices are correct
+
+	
+In IEEE 802.11, a station with ________mobility can move from one BSS to another, but the movement is confined inside one ESS.
+	no-transition
+	BSS-transition
+	ESS-transition
+	None of the choices are correct
+
+		
+In IEEE 802.11, a station with ________ mobility can move from one ESS to another.
+	no-transition
+	BSS-transition
+	ESS-transition
+	None of the choices are correct
+
+	
+In IEEE 802.11, distributed coordination function (DCF) uses _______ as the access method.
+	CSMA/CA
+	CSMA/CD
+	ALOHA
+	None of the choices are correct
+
+		
+In IEEE 802.11, when a frame is going from one station in a BSS to another station in the same BSS, the address flag is _____.
+	00
+	01
+	10
+	11
+
+		
+In IEEE 802.11, when a frame is coming from an AP and going to a station, the address flag is _______.
+	00
+	01
+	10
+	11
+
+		
+In IEEE 802.11, when a frame is going from a station to an AP, the address flag is _____.
+	00
+	01
+	10
+	11
+
+		
+In IEEE 802.11, when a frame is going from one AP to another AP in a wireless distribution system, the address flag is _____.
+	00
+	01
+	10
+	11
+
+		
+In IEEE 802.11, the access method used in the PCF sublayer is ______.
+	contention
+	controlled
+	polling
+	None of the choices are correct
+
+		
+In IEEE 802.11, the ______ is a time period used for collision avoidance.
+	NAV
+	BSS
+	ESS
+	None of the choices are correct
+
+	
+In IEEE 802.11, the addressing mechanism can include up to ______addresses.
+	four
+	five
+	six
+	None of the choices are correct
+
+	
+The original IEEE 802.11 uses _________.
+	FHSS
+	DSSS
+	OFDM
+	either FHSS or DSSS
+
+	
+The IEEE 802.11a uses _________.
+	FHSS
+	DSSS
+	OFDM
+	either FHSS or DSSS
+
+		
+The IEEE 802.11b uses _________.
+	FHSS
+	DSSS
+	OFDM
+	either FHSS or DSSS
+
+		
+The IEEE 802.11g uses _________.
+	FHSS
+	DSSS
+	OFDM
+	either FHSS or DSSS
+
+		
+The IEEE 802.11 FHSS uses ______ modulation.
+	ASK
+	FSK
+	PSK
+	None of the choices are correct
+
+	
+The IEEE 802.11 or IEEE 802.11b DSSS uses ______ modulation.
+	ASK
+	FSK
+	PSK
+	None of the choices are correct
+
+		
+The IEEE 802.11a, IEEE 802.11g, or IEEE 802.11n OFDM uses ______ modulation.
+	ASK
+	FSK
+	PSK
+	None of the choices are correct
+
+	
+Bluetooth is a _______ technology that connects devices (called gadgets) in a small area.
+	wired LAN
+	wireless LAN
+	VLAN
+	None of the choices are correct
+
+	
+In Bluetooth, multiple ________ form a network called a _________.
+	scatternet; piconets
+	piconets: scatternet
+	piconets: bluenet
+	bluenet; scatternet
+
+		
+A Bluetooth network consists of _____ primary device(s) and up to ____ secondary devices.
+	one; five
+	five; three
+	two; six
+	one; seven
+
+		
+In Bluetooth, the current data rate is ____Mbps.
+	2
+	5
+	11
+	None of the choices are correct
+
+	
+The access method in Bluetooth is ________.
+	FDMA
+	TDD-TDMA
+	CDMA
+	None of the choices are correct
+
+		
+In Bluetooth, the _____ link is used when data integrity is more important than avoiding latency.
+	SCO
+	ACL
+	ACO
+	SCL
+
+		
+Bluetooth uses ______ in the physical layer to avoid interference from other devices or other networks.
+	DSSS
+	FHSS
+	FDMA
+	None of the choices are correct
+
+
+Transmission media are usually categorized as _______.
+	fixed or unfixed
+	guided or unguided
+	determinate or indeterminate
+	metallic or nonmetallic
+
+
+Transmission media lie below the _______ layer.
+	physical
+	network
+	transport
+	application
+
+
+Twisting in a twisted-pair help reduce the __________.
+	length
+	cost
+	noise
+	None of the choices are correct.
+
+
+Noise in a coaxial cable is reduced by ___________________.
+	twisting the cable
+	the outer conductor
+	the inner conductor
+	None of the choices are correct.
+
+ 
+UTP and STP are different implementations of ___________________ cable.
+	twisted-pair
+	coaxial
+	fiber-optic
+	None of the choices are correct.
+
+		
+RJ-45 is a type of connectors used in _________ cabling.
+	twisted-pair
+	coaxial
+	fiber-optic
+	None of the choices are correct.
+
+ 
+RG rating is used in _________ cable.
+	twisted-pair
+	coaxial
+	fiber-optic
+	None of the choices are correct.
+
+ 
+SC and TP are two types of connectors used in _________ cabling.
+	twisted-pair
+	coaxial
+	fiber-optic
+	None of the choices are correct.
+
+ 
+The infrared wave has frequencies ________ microwave.
+	below
+	above
+	the same as
+	None of the choices are correct.
+
+ 
+BNC is a type of connectors used in _________ cabling.
+	twisted-pair
+	coaxial
+	fiber-optic
+	None of the choices are correct.

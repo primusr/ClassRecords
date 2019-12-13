@@ -1,0 +1,414 @@
+A browser is used to view _________ {
+	~program code
+	~storyboards
+	~fonts
+	=Web-based pages and documents
+	~videodiscs
+}
+
+
+A collection of programs used to create, broadcast, and receive podcasts.{
+	~Broadcasting software
+	~Receiving software
+	=Podcasting software
+	~Recording software
+}
+
+
+A computer that is configured to play multimedia projects, as contrasted with a development system used to create multimedia projects.{
+	=Playback system
+	~flash player
+	~vlc player
+	~media player
+}
+
+
+A high-speed serial technology for connecting peripherals to a computer; particularly popular for multimedia peripherals such as digital video.{
+	=Firewire
+	~Memory card
+	~Magnetic storage
+	~Flash memory
+}
+
+
+A program used to capture, edit and manipulate video images, add effects, titles, music to create studio-quality video.{
+	~Video capture device
+	=Video editing software
+	~Video recording software
+	~Video recorder
+}
+
+
+A project that is shipped or sold to consumers or end users, typically in a box or sleeve or on the Internet, with or without instructions, is\:{
+	=a CD-ROM
+	~an authoring tool
+	~a multimedia project
+	~a multimedia title
+}
+
+
+A small piece of software that adds features to or enhances a larger piece of software.{
+	~SDK
+	~extension
+	=Plug-in
+	~add on
+}
+
+
+A small removable storage medium used to store data in digital input devices such as cameras and audio recorders; some versions are called memory sticks.{
+	~Firewire
+	~Magnetic storage
+	=Memory card
+	~Flash memory
+}
+
+
+A solid-state memory that can be erased and reprogrammed; gets its name because the microchip is organized so that a section of memory cells are erased in a single action or flash.{
+	=Flash memory
+	~Memory card
+	~Firewire
+	~Magnetic storage
+}
+
+
+A storage device that encodes data as microscopic magnetized needles on the disk's surface.{
+	~Flash memory
+	=Magnetic storage
+	~Firewire
+	~Memory card
+}
+
+
+A storage device that records data by burning microscopic holes in the surface of the disk with a laser.{
+	~Flash drive
+	~Solid state storage
+	=Optical storage
+	~Memory card
+}
+
+
+A unit of storage measuring roughly one billion bytes.{
+	=Gigabyte
+	~Megabyte
+	~Kilobyte
+	~Terabyte
+}
+
+
+A unit of storage measuring roughly one million bytes.{
+	=Megabyte
+	~Terabyte
+	~Kilobyte
+	~Gigabyte
+}
+
+
+A unit of storage measuring roughly one trillion bytes.{
+	~Kilobyte
+	=Terabyte
+	~Megabyte
+	~Gigabyte
+}
+
+
+A _____ multimedia project allows users to sit back and watch it just as they do a movie or the television.{
+	=linear
+	~non-linear
+	~huge
+	~wide
+}
+
+
+A _____ program usually allows common elements, such as backgrounds and navigation bars which are common to all cards, to be placed in a background layer and elements which are different on each card to be placed on a foreground layer.{
+	~Time-based
+	=Card-based or Page-based
+	~Icon-based, event-driven
+	~Theatrical-based
+}
+
+
+According to one source, in interactive multimedia presentations where you are really involved, the retention rate is as high as\:{
+	~20 percent
+	~40 percent
+	~80 percent
+	=60 percent
+	~100 percent
+}
+
+
+An audio broadcast that has been converted to an MP3 file or other audio file format for playback in a digital music player or computer.{
+	~broadcast
+	~youtube
+	=Podcast
+	~radio station
+}
+
+
+An expansion device (internal or external) that digitizes full-motion video from a VCR, camera, or other video source.{
+	~HDTV
+	~AV card
+	=Video capture device
+	~TV card
+}
+
+
+An external serial bus standard that supports data transfer rates of 480 mbps (480 million bits per second); allows for standardized interface socket.{
+	~Parallel bus
+	=Universal Serial Bus
+	~Serial bus
+	~Firewire
+}
+
+
+An _____ is a software package which allow developers to write hypertext and multimedia applications by linking together objects such as a paragraph of text, an illustration, graphics or a song.{
+	=authoring tool
+	~programming language
+	~scripting tool
+	~office tool
+}
+
+
+Capturing, processing and presentation devices are categorized as _____.{
+	~analog media devices
+	=digital media devices
+	~general purpose devices
+	~synchronization devices
+	~interaction devices
+}
+
+
+CD and DVD _____ are used for reading and making discs.{
+	=burners
+	~roms
+	~drives
+	~cases
+}
+
+
+DVD stands for{
+	=Digital Versatile Disc
+	~Digital Video Disc
+	~Duplicated Virtual Disc
+	~Density-Variable Disc
+	~Double-View Disc
+}
+
+
+Genealogy software is used to{
+	~Study beneath sediments
+	~Organize class reunions
+	=Display family trees
+	~Compute shortest routes for ambulances
+	~Open e-mail
+}
+
+
+HTML and DHTML web pages or sites are generally viewed using a _____.{
+	=browser
+	~computer
+	~smart phone
+	~desktop
+}
+
+
+In this type of authoring program, events are thought of as cast members and arranged in a theatre-like production or stage which combines these elements in regard to time and place.{
+	~Time-based
+	~Card-based or Page-based
+	~Icon-based, event-driven
+	=Theatrical-based
+}
+
+
+In _____ authoring programs, the elements of the program are organized along a time line.Events may be precisely synchronized by coordinating the time, speed and display length of each one.{
+	=Time-based
+	~Card-based or Page-based
+	~Icon-based, event-driven
+	~Theatrical-based
+}
+
+
+LAN stands for:{
+	~logical access node
+	~link/asset navigator
+	=local area network
+	~list authoring number
+	~low-angle noise
+}
+
+
+PDA stands for:{
+	~primary digital asset
+	~processor digital application
+	=personal digital assistant
+	~practical digital accessory
+	~portable digital armour
+}
+
+
+Programs designed to record audio files.{
+	~Mixing software
+	~Editing software
+	=Recording software
+	~Playback software
+}
+
+
+Programs used to create bitmap images; useful in creating original art because they provide the tools used by artists such as brushes and pens.{
+	~photo editing software
+	=painting software
+	~Playback systems
+	~image editing software
+}
+
+
+Programs used to create graphic presentations with visual aids, handouts, slides, etc; or for creating text with graphics, audio, and/or video.{
+	~Application software
+	~Animation software
+	=Presentation software
+	~Desktop publishing software
+}
+
+
+Programs used to design and create single web pages or entire web site.{
+	~PHP
+	~CS
+	~HTML
+	=Web design software
+}
+
+
+Sources, filters and sinks falls under _____.{
+	=analog media devices
+	~digital media devices
+	~general purpose devices
+	~synchronization devices
+	~interaction devices
+}
+
+
+Storage devices like CD-ROM, floppy drive, hard drive, network interface, and general purpose processors are examples of _____.{
+	~analog media devices
+	~digital media devices
+	=general purpose devices
+	~synchronization devices
+	~interaction devices
+}
+
+
+A color profile used in computer monitors, televisions, and similar devices.{
+	~NTSC
+	~CMYK
+	=RGB
+	~HSB
+}
+
+
+The "ROM" in "CD-ROM" stands for:{
+	~random-order memory
+	~real-object memory
+	=read-only memory
+	~raster-output memory red-orange memory
+}
+
+
+The glass fiber cables that make up much of the physical backbone of the data highway are, in many cases, owned by:{
+	~local governments
+	~Howard Johnson
+	~television networks
+	=railroads and pipeline companies
+	~book publishers
+}
+
+
+The software vehicle, the messages, and the content presented on a computer or television screen together make up:{
+	=a multimedia project
+	~a CD-ROM
+	~a web site
+	~a multimedia title
+	~an authoring tool
+}
+
+
+True or false. Probably the weakest feature of PC's in the 80's in context of Multimedia is the bus architecture.{
+	=True
+	~False
+}
+
+
+VR stands for:{
+	=virtual reality
+	~visual response
+	~video raster
+	~variable rate
+	~valid registry
+}
+
+
+Which of the following allows allows an end user to control what and when the elements are delivered?{
+	=Interactive multimedia
+	~Hypermedia
+	~Multimedia
+	~Authoring tools
+}
+
+
+Which of the following devices enable a user to have a direct control over the multimedia application's behavior?{
+	~analog media devices
+	~digital media devices
+	~general purpose devices
+	~synchronization devices
+	=interaction devices
+}
+
+
+Which of the following is displayable on a web page after installation of a browser plug-in?{
+	~Windows 7
+	=Adobe Flash
+	~Mozilla
+	~Internet Explorer
+	~Firefox
+}
+
+
+Which of the following is not a technology likely to prevail as a delivery means for interactive multimedia files?{
+	~copper wire
+	~glass fiber
+	~radio/cellular
+	=floppy disk
+	~CD-ROM
+}
+
+
+Which of the following refers to any combination of text, graphic art, sound, animation, and video delivered to you by computer or other electronic means?{
+	~Interactive multimedia
+	~Hypermedia
+	=Multimedia
+	~Authoring tools
+}
+
+
+Which of the following refers to software tools designed to manage individual multimedia elements and provide user interaction?{
+	~Interactive multimedia
+	~Hypermedia
+	~Multimedia
+	=Authoring tools
+}
+
+
+Which one of the following is not/are not typically part of a multimedia specification?{
+	~text
+	=odors
+	~sound
+	~video
+	~pictures
+}
+
+
+________ authoring programs are designed around a visual programming approach to sequencing the events in the multimedia application. The developer drags the icons for each event, such as text, graphics, sound and video, to a flow line thus also creating a type of visual flow chart.{
+	~Time-based
+	~Card-based or Page-based
+	=Icon-based, event-driven
+	~Theatrical-based
+}
+
+

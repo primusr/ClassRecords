@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 107404  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>What is the frame rate for NTSC video?</text>
+      <answer>
+        <text>30 Frames per second (29.97 fps)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>What should you do with your videotapes before recording on them?</text>
+      <answer>
+        <text>Black-stripe and timecode them</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>What technique can you use while shooting to optimize video compression later on?</text>
+      <answer>
+        <text>Keep camera still and let the subject provide movement</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>When creating graphics for conversion to video, do not place critical information such as text in the outside 15% of the image. Instead, keep it within the _______ (two words) area.</text>
+      <answer>
+        <text>Safe Title</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Which broadcast video standard is used in North America?</text>
+      <answer>
+        <text>NTSC</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107405  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>Which color combinations work best for on screen text?</text>
+      <answer>
+        <text>Light text on a dark background for TV</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Which compression scheme is best suited for CD-ROM playback?</text>
+      <answer>
+        <text>Cinepak</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The digital video and audio compression schemes that compress a video for delivery and then decode it during playback are called?</text>
+      <answer>
+        <text>Codecs</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The codec that is within both AVI and Quicktime and is optimized for CD-ROM playback is _________.</text>
+      <answer>
+        <text>Sorenson</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Computer monitors draw the lines of an entire frame in a single pass; this technique is called?</text>
+      <answer>
+        <text>Progressive-Scan</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107406  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>Generation loss occurs when:</text>
+      <answer>
+        <text>An analog tape is copied to another analog tape</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>A hard disk system that will support high-speed data transfer rates is called a _____.</text>
+      <answer>
+        <text>RAID</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>How many horizontal lines of resolution does this North American Standard have?</text>
+      <answer>
+        <text>525 Lines of resolution</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>In a video camera, the sensor that picks up the light is called a CCD. CCD stands for?</text>
+      <answer>
+        <text>Charge-Coupled Device</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>In a video camera, which component converts light into an electronic signal?</text>
+      <answer>
+        <text>Charge Coupled Device</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107407  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>The length of time it takes the CD-ROM player to locate specific data on the CD-ROM disc is called?</text>
+      <answer>
+        <text>Seek Time</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Most television cut off portions at the edges of a broadcast video signal. What is this phenomenon called?</text>
+      <answer>
+        <text>Overscan</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>MPEG stands for:</text>
+      <answer>
+        <text>Moving Picture Experts Group</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Quicktime movies being prepared for a CD or Web site should be processed so that the audio and video segments are interleaved together and all of the info is in one data file. This is called?</text>
+      <answer>
+        <text>Flattening</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Red or green should be avoided as cue colors because:</text>
+      <answer>
+        <text>Color blind individual cant see them correctly</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107408  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>Removing a residual magnetic field that distorts the colors on a TV screen is called?</text>
+      <answer>
+        <text>Degaussing</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>A single frame of video is made up of two fields _______ fields.</text>
+      <answer>
+        <text>Interlaced</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The technique in which playback of a video starts as soon as enough data has transferred to the user's computer to sustain this playback is called?</text>
+      <answer>
+        <text>Streaming</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Television screens use a process of building a single frame from two fields to help prevent flicker on TV screens is a technique called _______.</text>
+      <answer>
+        <text>Interlacing</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The television signal format used in France, Russia and a few other countries is known as _____.</text>
+      <answer>
+        <text>SECAM</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107409  -->
+  <question type="matching">
+    <name>
+      <text>Match the following questions to its correct answer.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the following questions to its correct answer.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>Video is compressed and decompressed using a ______.</text>
+      <answer>
+        <text>Codec</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>A video signal transmitted with all the signals mixed together and carried on single cabled is called?</text>
+      <answer>
+        <text>Composite Video</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>Why is compression necessary when working with digital video?</text>
+      <answer>
+        <text>Because the file sizes and data rates of uncompressed video exceed the capabilities of common computer hardware.</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107410  -->
+  <question type="matching">
+    <name>
+      <text>Matching Type. Select the appropriate terms to complete the sentences.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Matching Type. Select the appropriate terms to complete the sentences.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="moodle_auto_format">
+      <text>An object seen by the human eye remains chemically mapped on the retina for a brief time after viewing. This phenomenon is called _______________.</text>
+      <answer>
+        <text>Persistence of vision</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The human mind needs to conceptually complete a perceived action. This phenomenon is called _______________.</text>
+      <answer>
+        <text>Phi</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>To make an object travel across the screen while it changes its shape, just change the shape and also move or _______________ it a few pixels for each frame.</text>
+      <answer>
+        <text>translate</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The animation technique made famous by Disney involves showing a different image for each framThis technique is called _______________ animation.</text>
+      <answer>
+        <text>Cel</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The first and last frames of an action are called _______________.</text>
+      <answer>
+        <text>Key-frame</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The series of frames in between the first and last frames in an action are drawn in a process called _______________.</text>
+      <answer>
+        <text>tweening</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>In computer animation terminology, _______________ usually refers to special methods that allow images to blend or otherwise mix their colors to produce special transparencies, inversions, and effects.</text>
+      <answer>
+        <text>inks</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The study of the movement and motion of structures that have joints is called _______________.</text>
+      <answer>
+        <text>kinematics</text>
+      </answer>
+    </subquestion>
+    <subquestion format="moodle_auto_format">
+      <text>The effect in which one image transforms into another is known as _______________.</text>
+      <answer>
+        <text>morphing</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 107411  -->
+  <question type="multichoice">
+    <name>
+      <text>A computers output on the monitor is calibrated to display an image:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A computers output on the monitor is calibrated to display an image:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Smaller than the actual monitors capability</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Larger than the actual monitors capability</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Exactly the same size as the actual monitors capability</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>That adjusts automatically to the monitors capability</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Of a fixed size, whether it is larger or smaller than the monitors capability depends on the monitor.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107412  -->
+  <question type="multichoice">
+    <name>
+      <text>In general, the animation may appear jerky and slow if each frame is ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In general, the animation may appear jerky and slow if each frame is displayed for more than about:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1/30 of a second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1/15 of a second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1/4 of a second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1/2 of a second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1 second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107413  -->
+  <question type="multichoice">
+    <name>
+      <text>Most authoring packages include visual effects such as:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Most authoring packages include visual effects such as:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>panning, zooming, and tilting</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>wipes, fades, zooms, and dissolves</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>morphing</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>tweening</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>inverse kinematics</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107414  -->
+  <question type="multichoice">
+    <name>
+      <text>Movies on film are typically shot at a shutter rate of:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Movies on film are typically shot at a shutter rate of:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>15 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>24 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>29.97 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>30 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>48 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107415  -->
+  <question type="multichoice">
+    <name>
+      <text>The clear sheets that were used for drawing each frame of animation have been...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The clear sheets that were used for drawing each frame of animation have been replaced today by:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>acetate or plastic</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>titanium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>fiberglass</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>epoxy resin</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>digital paper</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107416  -->
+  <question type="multichoice">
+    <name>
+      <text>The Director file format has which extension?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The Director file format has which extension?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>.dir and .dcr</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>.fli and .flc</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>.avi</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>.qt, .mov</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>.mpeg or .mpg</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107417  -->
+  <question type="multichoice">
+    <name>
+      <text>The file format that is most widely supported for web animations is:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The file format that is most widely supported for web animations is:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>PICT</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>.DCR</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>GIF89a</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>JPEG</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>AIFF</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107418  -->
+  <question type="multichoice">
+    <name>
+      <text>The process in which you link objects such as hands to arms and define their ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The process in which you link objects such as hands to arms and define their relationships and limits (for example, elbows cannot bend backward), then drag these parts around and let the computer calculate the result is called:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>rotoscoping</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>de-morphing</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>meta-articulation</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cyber-motion</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>inverse kinematics</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107419  -->
+  <question type="multichoice">
+    <name>
+      <text>The standard frame rate of computer animations is:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The standard frame rate of computer animations is:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>10 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>15 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>24 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>30 frames per second</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>There is no standard; it depends on the file's settings.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107420  -->
+  <question type="multichoice">
+    <name>
+      <text>The technical limitation you are likely to encounter in creating animations is:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The technical limitation you are likely to encounter in creating animations is:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>the monitor's refresh rate</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>the computer's processing capability</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>the ability to accurately calculate physical actions</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[the "persistence of vision" phenomenon]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>the monitor's color gamut</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107421  -->
+  <question type="multichoice">
+    <name>
+      <text>The term cel derives from:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The term cel derives from:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[the concept of each action in a sequence being a separate element or "cell"]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>the fact that the inks used in early animations were based on extracts from celery plants</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[an abbreviation of the phrase "composite element"]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>the fact that the first animations were the work of communist dissidents who were organized into cells</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>the clear celluloid sheets that were used for drawing each frame</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107422  -->
+  <question type="multichoice">
+    <name>
+      <text>The video technique that allows you to choose a color or range of colors that...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The video technique that allows you to choose a color or range of colors that become transparent, allowing the video image to be visible behind those colors in the overlying image, is known by all of the following except:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Blue Screen</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Ultimate</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Chroma Key</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Interlacing</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>All of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107423  -->
+  <question type="multichoice">
+    <name>
+      <text>To create a smooth transition between two images when morphing, it's ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>To create a smooth transition between two images when morphing, it's important to set numerous:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>layers</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>keyframes</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>key points</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>anchor tags</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>splines</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107424  -->
+  <question type="multichoice">
+    <name>
+      <text>To keep the post-compression file size at absolute minimums, Flash makes ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>To keep the post-compression file size at absolute minimums, Flash makes extensive use of:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>inverse kinematics</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cel-type animation</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>vector graphics</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>inks</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>NURBS</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107425  -->
+  <question type="multichoice">
+    <name>
+      <text>Today's computer animation programs most closely resemble:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Today's computer animation programs most closely resemble:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[film "rotoscoping" techniques]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[the "phi" phenomenon described by Carl Jung]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>neuro-kinetics techniques pioneered by NASA</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>traditional cel animation</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>none of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107426  -->
+  <question type="multichoice">
+    <name>
+      <text>Today, the most widely used tool for creating vector-based animations is:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Today, the most widely used tool for creating vector-based animations is:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Adobe's Flash</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Adobe's GoLive</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Corel's CorelDraw</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Microsoft's KineMatix</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Activa's InterStudio</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107427  -->
+  <question type="multichoice">
+    <name>
+      <text>True or False: Component video provides superior quality to composite video ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>True or False: Component video provides superior quality to composite video because the video signal is broken into three distinct channels.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107428  -->
+  <question type="multichoice">
+    <name>
+      <text>True or False: Televisions and computer monitors do not use the same color ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>True or False: Televisions and computer monitors do not use the same color gamut.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107429  -->
+  <question type="multichoice">
+    <name>
+      <text>True or False: To prevent flickering, on screen text should use lines that ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>True or False: To prevent flickering, on screen text should use lines that are one pixel wide False; be thicker than one pixel.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107430  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is a videotape format?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is a videotape format?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>GIF</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>DVD-RW</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Component Y</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Hi-8</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>S-VHS</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107431  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT a codec?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is NOT a codec?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>MPEG</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>DV</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>NTSC</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cinepak</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Soreman</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107432  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT a good a idea when creating titles (text) to be...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is NOT a good a idea when creating titles (text) to be used in video?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Font for titles should be plain, sans serif, and bold enough to be easily read</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>When you are laying text onto a dark background, use white or a light color for the text</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Do not kern you letters too tightly</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>If you use underlining or drawn graphics, make sure your lines are only one pixel wide.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Use a drop shadow to help separate the text from the background</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107433  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT a recommendation for caring for videotapes?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is NOT a recommendation for caring for videotapes?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Always fast-fwd new tapes to the end and then rewind them to make sure that tape tension is even from beginning to end</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Run your tape through the recorder once with the lens cap on and without audio input</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Do not reuse 8mm video cassettes, as their small size makes them susceptible to stretch.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Always make a backup copy of these tapes before you begin editing</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Never remove the break off tab on the back of your original video cassettes; doing so renders the tap unusable with some decks</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107434  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT a TV signal format?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is NOT a TV signal format?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>MPEG</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>NTSC</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>PAL</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>SECAM</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>HDTV</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107435  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT recommended for optimal video playback from ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is NOT recommended for optimal video playback from CD-ROM?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Use a large video window and a high frame rate.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Interleave the audio and video segments together</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Use recently spaced key frames</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 107436  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of these is not a reason why animation is perceived as motion?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of these is not a reason why animation is perceived as motion?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>An image remains in the eye chemically for a brief time after viewing.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[Our mind tries to "connect the dots" by completing perceived actions.]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>The use of darker colors for moving objects is interpreted by the mind as motion.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A sequence of images is read as continuous motion.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>All of the above are valid reasons.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

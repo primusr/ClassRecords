@@ -1,0 +1,4639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 103522  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 1</text>
+    </name>
+    <questiontext format="html">
+      <text>A profile of your average user.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>audience definition</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>complete URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>extranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>File Transfer Protocol</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103543  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 1</text>
+    </name>
+    <questiontext format="html">
+      <text>A CSS keyword that lets the user override the author’s style setting for a particular element.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>!important</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cascade</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>child element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>declaration</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103531  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 10</text>
+    </name>
+    <questiontext format="html">
+      <text>A Uniform Resource Locator (URL) that omits the protocol and server name and only specifies the path to the file relative to one another on the same server.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>page view</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>partial URL</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>requirements</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Secure Socket Layer</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103552  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 10</text>
+    </name>
+    <questiontext format="html">
+      <text>An element that lets you change other aspects of a document that are not classified by elements, such as applying style rules to the first letter or first line of a paragraph.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>pseudo-class</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>pseudo-element</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>recommendation</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103532  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 11</text>
+    </name>
+    <questiontext format="html">
+      <text>The list of customer needs for a web site, such as search capability, tabbed menu navigation, specific color and branding requirements, or anything else that will create the desired outcome for the site.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>page view</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>partial URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>requirements</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Secure Socket Layer</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103553  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 11</text>
+    </name>
+    <questiontext format="html">
+      <text>The final stage of development by the W C, indicating that a technology release has been reviewed and tested extensively.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>pseudo-class</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>pseudo-element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>recommendation</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103533  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 12</text>
+    </name>
+    <questiontext format="html">
+      <text>Communications software that allows transmission of encrypted secure messages over the Internet.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>page view</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>partial URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>requirements</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Secure Socket Layer</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103554  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 12</text>
+    </name>
+    <questiontext format="html">
+      <text>The part of a style rule that determines which HTML element to match.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>pseudo-class</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>pseudo-element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>recommendation</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>selector</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103534  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 13</text>
+    </name>
+    <questiontext format="html">
+      <text>Software that is distributed free so users can try it before they buy it. Users then can register the software for a relatively small fee compared to software produced commercially.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>shareware</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>site specification</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Structured Query Language</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>taxonomy</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103555  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 13</text>
+    </name>
+    <questiontext format="html">
+      <text>The basic unit of expression in CSS. It is composed of two parts: a selector and a declaration.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>style rule</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>style sheet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>type selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>universal selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>value</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103535  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 14</text>
+    </name>
+    <questiontext format="html">
+      <text>The design document for your web site.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>shareware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>site specification</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>taxonomy</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103556  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 14</text>
+    </name>
+    <questiontext format="html">
+      <text>A set of style rules that describes a document’s display characteristics.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>style rule</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>style sheet</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>type selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>universal selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>value</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103536  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 15</text>
+    </name>
+    <questiontext format="html">
+      <text>A programming language that lets you select information from a database.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>shareware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>site specification</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Structured Query Language</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>taxonomy</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103557  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 15</text>
+    </name>
+    <questiontext format="html">
+      <text>A CSS selector that applies a rule to every instance of the element in a document.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>style rule</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>style sheet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>type selector</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>universal selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>value</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103537  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 16</text>
+    </name>
+    <questiontext format="html">
+      <text>A classification and naming of content in a hierarchical structure.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>shareware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>site specification</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Structured Query Language</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>taxonomy</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103558  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 16</text>
+    </name>
+    <questiontext format="html">
+      <text>A selector that lets you quickly select groups of elements and apply a style rule.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>style rule</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>style sheet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>type selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>universal selector</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>value</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103538  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 17</text>
+    </name>
+    <questiontext format="html">
+      <text>The global address of documents and other resources on the web.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>virtual machine</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web analytics</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web serve</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wireframe</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103559  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 17</text>
+    </name>
+    <questiontext format="html">
+      <text>The precise specification of a property in a style rule, based on the allowable values for the property.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>style rule</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>style sheet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>type selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>universal selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>value</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103539  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 18</text>
+    </name>
+    <questiontext format="html">
+      <text>A software emulator that acts like a physical computer.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>virtual machine</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web analytics</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web serve</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wireframe</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103540  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 19</text>
+    </name>
+    <questiontext format="html">
+      <text>The analysis of statistics that are gathered by web servers.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>virtual machine</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>web analytics</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web serve</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wireframe</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103523  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 2</text>
+    </name>
+    <questiontext format="html">
+      <text>An address of documents and other resources on the web that includes the protocol the browser uses to access the file, service, domain name, the relative path, and the filename.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>audience definition</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>complete URL</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>extranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>File Transfer Protocol</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103544  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 2</text>
+    </name>
+    <questiontext format="html">
+      <text>Style sheets originate from three sources: the author, the user, and the browser. This feature of CSS lets these multiple style sheets and style rules interact in the same document.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>!important</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>cascade</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>child element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>declaration</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103541  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 20</text>
+    </name>
+    <questiontext format="html">
+      <text>A computer connected to the Internet that runs server software. The software lets the computer use the Hypertext Transfer Protocol (HTTP) to serve HTML files to web browser clients.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>virtual machine</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web analytics</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>web server</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wireframe</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103542  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 21</text>
+    </name>
+    <questiontext format="html">
+      <text>Web page mockups that represent page layouts for a web site.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Uniform Resource Locator</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>virtual machine</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web analytics</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>web serve</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>wireframe</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103524  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 3</text>
+    </name>
+    <questiontext format="html">
+      <text>A private part of a company’s intranet that uses the Internet to securely share part of an organization’s information.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>audience definition</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>complete URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>extranet</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>File Transfer Protocol</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103545  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 3</text>
+    </name>
+    <questiontext format="html">
+      <text>An HTML element contained within another element.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>!important</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cascade</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>child element</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>declaration</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103525  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 4</text>
+    </name>
+    <questiontext format="html">
+      <text>A standard communications protocol for transferring files over the Internet.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>audience definition</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>complete URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>extranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>File Transfer Protocol</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103546  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 4</text>
+    </name>
+    <questiontext format="html">
+      <text>The __________ portion of a style rule consists of a property name and value. The browser applies this to the selected element.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>!important</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>cascade</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>child element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>declaration</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103526  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text>Programs available free of charge or with an optional donation fee.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>freeware</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Internet service provider</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>intranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ISO Standard</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103547  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text>The order of CSS rules dictating that child elements inherit rules from parent elements.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>inheritance</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<link> element]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>parent element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>property</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103527  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text>A company that provides Internet access and web site hosting services to individuals and organizations.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>freeware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Internet service provider</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>intranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ISO Standard</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103548  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text>An HTML element that lets you establish document relationships, such as linking to an external style sheet.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>inheritance</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<link> element]]></text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>parent element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>property</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103528  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 7</text>
+    </name>
+    <questiontext format="html">
+      <text>A private collection of networks contained within an organization.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>freeware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Internet service provider</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>intranet</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ISO Standard</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103549  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 7</text>
+    </name>
+    <questiontext format="html">
+      <text>An HTML element that contains child elements.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>inheritance</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<link> element]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>parent element</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>property</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103529  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 8</text>
+    </name>
+    <questiontext format="html">
+      <text>A file system standard that supports computer operating systems such as Windows, classic Mac OS, and UNIX-like systems, to exchange data.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>freeware</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Internet service provider</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>intranet</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ISO Standard</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103550  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 8</text>
+    </name>
+    <questiontext format="html">
+      <text>A quality or characteristic stated in a style rule, such as color, font-size, or margin. The is a part of the style rule declaration.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>inheritance</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<link> element]]></text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>parent element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>property</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103530  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 9</text>
+    </name>
+    <questiontext format="html">
+      <text>The number of times a web page is viewed by a user.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>page view</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>partial URL</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>requirements</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Secure Socket Layer</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103551  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 9</text>
+    </name>
+    <questiontext format="html">
+      <text>An element that selects elements based on characteristics other than their element name.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Correct</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Incorrect</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>pseudo-class</text>
+      <feedback format="html">
+        <text>Correct</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>pseudo-element</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>recommendation</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>selector</text>
+      <feedback format="html">
+        <text>Incorrect</text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103560  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style can be applied to button group instead...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style can be applied to button group instead of resizing each button?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-group</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-toolbar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-group-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-vertical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103561  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Which of the following bootstrap style helps to combine sets of &Ltdiv ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following bootstrap style helps to combine sets of &Ltdiv class="btn-group"&gt into a &Ltdiv class="btn-toolbar"&gt for more complex components?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-group</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-toolbar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-vertical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103562  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style is used for a basic button group?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style is used for a basic button group?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.btn-group</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-toolbar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-vertical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103563  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style is used to add button to .navbar?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style is used to add button to .navbar?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.navbar-.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>..btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.form-.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103564  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style is used to add text to .navbar?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style is used to add text to .navbar?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.navbar-text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.form-text</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103565  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style makes a set of buttons appear ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style makes a set of buttons appear vertically stacked rather than horizontally?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-group</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-toolbar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-group-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-group-vertical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103566  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button creates a default/ standard ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button creates a default/ standard button?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-primary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103567  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button creates block level buttons ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button creates block level buttons that span the full width of a parent?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-sm</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-xs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-block</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103568  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button deemphasize a button by ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button de-emphasize a button by making it look like a link while maintaining button behaviour?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-link</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103569  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button indicates a dangerous or ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button indicates a dangerous or potentially negative action?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-link</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103570  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button indicates a successful or ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button indicates a successful or positive action?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-primary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103571  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button indicates caution should be ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button indicates caution should be taken with this action?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.btn-warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-link</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103572  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button makes the button size extra ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button makes the button size extra small?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-sm</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-xs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-block</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103573  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button makes the button size large?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button makes the button size large?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.btn-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-sm</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-xs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-block</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103574  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button makes the button size small?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button makes the button size small?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn-lg</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-sm</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-xs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-block</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103575  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button provides extra visual weight...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button provides extra visual weight and identifies the primary action in a set of buttons?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-primary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103576  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of button represents a contextual ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of button represents a contextual button for informational alert messages?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.btn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-primary</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.btn-success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.btn-info</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103577  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of image adds a bit of padding and a ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of image adds a bit of padding and a Gray border?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.img-rounded</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.img-circle</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.img-thumbnail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103578  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of image gives the image rounded corners?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of image gives the image rounded corners?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.img-rounded</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.img-circle</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.img-thumbnail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103579  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap style of image makes the entire image round ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap style of image makes the entire image round by adding border-radius:500px?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.img-rounded</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.img-circle</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.img-thumbnail</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103580  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to add a dropdown to a pills?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to add a dropdown to a pills?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tab, .menu</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-pills, .dropdown-.menu</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .dropdown</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103581  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to add a dropdown to a tab?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to add a drop down to a tab?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs, .menu</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-tabs, dropdown-.menu</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .dropdown</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103582  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to create a disabled tab in ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to create a disabled tab in tabs navigation?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-tabs, .disabled</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .nav-disabled</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103583  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to create a justified tabs ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to create a justified tabs navigation?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .nav-stacked</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-tabs, .nav-justified</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103584  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to create a pills navigation?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to create a pills navigation?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .nav-stacked</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs, .nav-justified</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103585  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to create a tabbed navigation?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to create a tabbed navigation?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-tabs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills, .nav-stacked</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs, .nav-justified</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103586  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following bootstrap styles are used to create a vertical pills ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following bootstrap styles are used to create a vertical pills navigation?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-pills</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.nav, .nav-pills, .nav-stacked</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.nav, .nav-tabs, .nav-justified</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103587  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class applies the hover color to a particular row or ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class applies the hover color to a particular row or cell of a table?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.active</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103588  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class can be used to create a responsive table?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class can be used to create a responsive table?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.table-responsive</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.responsive</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.active</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103589  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class indicates a dangerous or potentially negative ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class indicates a dangerous or potentially negative action?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.active</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103590  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class indicates a successful or positive action?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class indicates a successful or positive action?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.active</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103591  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class indicates a warning that might need attention?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class indicates a warning that might need attention?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.active</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.success</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.warning</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.danger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103592  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class is required to be added to form tag to make it ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class is required to be added to form tag to make it inline?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.inline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.form-inline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.horizontal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103593  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class is required to be added to form tag to make it ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class is required to be added to form tag to make it horizontal?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.horizontal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.form-horizontal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.horizontal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103594  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class styles a table as a nice basic table with ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class styles a table as a nice basic table with stripes on rows?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.table</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.table-striped</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-bordered</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-hover</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103595  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class styles a table as a nice basic table with just ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class styles a table as a nice basic table with just some light padding and horizontal dividers?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.table</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-striped</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-bordered</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-hover</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103596  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class styles a table with a light gray background to ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class styles a table with a light gray background to rows while the cursor hovers over them?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.table</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-striped</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-bordered</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.table-hover</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103597  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following class styles a table with borders surrounding every ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following class styles a table with borders surrounding every element and rounded corners around the entire table?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>.table</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-striped</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>.table-bordered</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.table-hover</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103598  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is a part of Mobile First Strategy of Bootstrap?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is a part of Mobile First Strategy of Bootstrap?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Content: Determine what is most important.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Layout: Design to smaller widths first. Base CSS address mobile device first; media queries address for tablet, desktops.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Progressive Enhancement: Add elements as screen size increases.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103599  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap cross browser consistency?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap cross browser consistency?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Bootstrap uses Normalize to establish cross browser consistency.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Normalize.css is a modern, HTML5-ready alternative to CSS resets.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103600  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Grid System?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Grid System?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Rows must be placed within a .container class for proper alignment and padding.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Use rows to create horizontal groups of columns.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Content should be placed within the columns, and only columns may be the immediate children of rows.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103601  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Grid System?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Grid System?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. LESS mixins can also be used for more semantic layouts.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and the last column via negative margin on .rows.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103602  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Media Query?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Media Query?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Media query is a really fancy term for "conditional CSS rule".]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It simply applies some CSS, based on certain conditions set forth. If those conditions are met, the style is applied.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Both of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103603  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Media Query?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Media Query?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Media queries have two parts, a device specification and then a size rule.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Media Queries in Bootstrap allow you to move, show and hide content based on the viewport size.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Both of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103604  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Mobile First Strategy?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Mobile First Strategy?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>You need to add the viewport meta tag to the element, to ensure proper rendering and touch zooming on mobile devices.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>width property controls the width of the device. Setting it to device-width will make sure that it is rendered across various devices (mobiles,desktops,tablets.) properly.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>initial-scale=1.0 ensures that when loaded, your web page will be rendered at a 1:1 scale, and no zooming will be applied out of the box.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103605  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap Responsive Images?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap Responsive Images?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Bootstrap 3 allows you to make the images responsive by adding a class ..img-responsive to the &lt.img&gt tag.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>..img-responsive class applies max-width: 100%; and height: auto; to the image so that it scales nicely to the parent element.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Both of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103606  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Bootstrap is a sleek, intuitive, and powerful, mobile first front-end framework for faster and easier web development.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It uses HTML, CSS and Javascript.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103607  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Bootstrap?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about Bootstrap?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Bootstrap's responsive CSS adjusts to Desktops,Tablets and Mobiles.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Provides a clean and uniform solution for building an interface for developers.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>It contains beautiful and functional built-in components which are easy to customize.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>All answers are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103608  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is the default layout of a bootstrap form?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is the default layout of a bootstrap form?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>.vertical</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.inline</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>.horizontal</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103609  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is true about bootstrap help text?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is true about bootstrap help text?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Bootstrap form controls can have a block level help text that flows with the inputs.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[To add a full width block of content, use the .help-block after the &ltinput&gt.]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Both of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>None of the above.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

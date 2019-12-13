@@ -1,0 +1,2677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/PRELIM</text>
+
+    </category>
+  </question>
+
+<!-- question: 103254  -->
+  <question type="multichoice">
+    <name>
+      <text>Are HTML tags case sensitive?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Are HTML tags case sensitive?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103255  -->
+  <question type="multichoice">
+    <name>
+      <text>Is HTML5 backward compatible with old browsers?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Is HTML5 backward compatible with old browsers?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103256  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following browser supports HTML5 in its latest version?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following browser supports HTML5 in its latest version?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Apple Safari</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Google Chrome</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Both of the statements are correct..</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the choices are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103257  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following feature is a part of HTML 5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following feature is a part of HTML 5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Persistent Local Storage</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>WebSocket</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Server-Sent Events</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>All of the above.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103258  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following feature is a part of HTML 5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following feature is a part of HTML 5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Canvas</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[Audio & Video]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Geolocation</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>All of the above.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103259  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following input control represents a date (year, month, day) ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following input control represents a date (year, month, day) encoded according to ISO 8601 in Web Form 2.0?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime-local</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>month</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103260  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following input control represents a date and time (year, month,...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following input control represents a date and time (year, month, day, hour, minute, second, fractions of a second) encoded according to ISO 8601 with the time zone set to UTC in Web Form 2.0?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>datetime</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime-local</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>month</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103261  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following input control represents a date and time (year, month,...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following input control represents a date and time (year, month, day, hour, minute, second, fractions of a second) encoded according to ISO 8601 with no time zone information in Web Form 2.0?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>datetime-local</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>month</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103262  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following input control represents a date consisting of a year ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following input control represents a date consisting of a year and a month encoded according to ISO 8601 in Web Form 2.0?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>datetime-local</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>month</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103232  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is a markup language that defines the structure and ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is a markup language that defines the structure and display properties of a Web page?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type Definition</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Extensible Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>hypertext</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103233  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is a nonlinear way of organizing information? When you...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is a nonlinear way of organizing information? When you are using a hypertext system, you can skip from one related topic to another, find the information that interests you, and then return to your starting point or move on to another related topic of interest.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type Definition</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Extensible Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>hypertext</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103263  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about custom attributes in HTML5?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about custom attributes in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A custom data attribute starts with data- and would be named based on your requirement.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>You would be able to get the values of these attributes using JavaScript APIs or CSS in similar way as you get for standard attributes.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Both of the statements are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the choices are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103264  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about custom attributes in HTML5?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is correct about custom attributes in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A custom data attribute starts with data- and would be named based on your requirement.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>You would be able to get the values of these attributes using JavaScript APIs or CSS in similar way as you get for standard attributes.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Both of the statements are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the choices are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103265  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is correct about Web form 2.0 in HTML5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is correct about Web form 2.0 in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Web Forms 2.0 is an extension to the forms features found in HTML4.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Form elements and attributes in HTML5 provide a greater degree of semantic mark-up than HTML4.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Form elements and attributes in HTML5 remove a great deal of the need for tedious scripting and styling that was required in HTML4.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>All of the above.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103234  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is HTML 4.01 reformulated as an application of XML?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is HTML 4.01 reformulated as an application of XML?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type Definition</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Extensible Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>hypertext</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103266  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is true about HTML 5?</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is true about HTML 5?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>HTML5 is a standard for structuring and presenting content on the World Wide Web.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>HTML5 is a cooperation between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG).</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>All of the given choices are correct.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103223  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a CSS statement that let you specify ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a CSS statement that let you specify different style rules for different media destinations? For example, an HTML document could be displayed with different fonts for print or screen.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>grid</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>look and feel</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Media Queries</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>passive white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>screen resolution</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103235  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a descriptive markup that identifies the ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a descriptive markup that identifies the intended use of document sections? It describes each piece of content.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>root element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>semantic markup</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>single-source</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Standard Generalized Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>style sheet</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103224  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a layout device that organizes the Web page,...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a layout device that organizes the Web page, providing visual consistency?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>grid</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>look and feel</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Media Queries</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>passive white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>screen resolution</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103236  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a markup code that conforms to the usage ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a markup code that conforms to the usage rules of the W3C?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>valid code</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>validator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Web page</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>well-formed document</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>World Wide Web Consortium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103237  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a program contained in every browser that ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a program contained in every browser that interprets the markup tags in an HTML fi le and displays the results in the browser?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>markup language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>metadata</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Multipurpose Internet Mail Extensions</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>rendering engine</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103238  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a set of rules that contains all the ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a set of rules that contains all the elements, attributes, and usage rules for the markup language you are using?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Document Type Definition</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Extensible Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>hypertext</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Hypertext Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103239  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a set of style rules that describes a ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a set of style rules that describes a document's display characteristics?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>root element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>semantic markup</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>single-source</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Standard Generalized Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>style sheet</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103240  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a small piece of text-based data that a Web ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a small piece of text-based data that a Web page stores on the user's machine?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cascading Style Sheets</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>cookie</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>deprecated element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103241  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a software program that checks an HTML ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a software program that checks an HTML document for syntactical errors?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>valid code</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>validator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Web page</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>well-formed document</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>World Wide Web Consortium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103242  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a standard for e-mail, defines content types...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a standard for e-mail, defines content types for the Web? It determines the type of document presented in an HTML file.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>markup language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>metadata</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Multipurpose Internet Mail Extensions</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>rendering engine</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103243  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a structured language that lets you identify...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a structured language that lets you identify common elements of a document such as headings, paragraphs, and lists?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>markup language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>metadata</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Multipurpose Internet Mail Extensions</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>rendering engine</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103244  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a style language, created by the W3C, that ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a style language, created by the W3C, that allows complete specifications of style for HTML documents?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Cascading Style Sheets</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cookie</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>deprecated element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103245  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a syntactically correct XML or XHTML file?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a syntactically correct XML or XHTML file?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>valid code</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>validator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Web page</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>well-formed document</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>World Wide Web Consortium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103246  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a text document that is interpreted and ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a text document that is interpreted and displayed by Web browser software.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>valid code</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>validator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Web page</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>well-formed document</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>World Wide Web Consortium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103225  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a Web page layout designed to adapt to diff ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a Web page layout designed to adapt to diff erent screen resolutions. Also called fluid layout?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>active white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cache</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>fixed-width page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>flexible page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103226  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to a Web page layout that allows the designer ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to a Web page layout that allows the designer to control the look of the Web pages as if it were a printed page, with consistent width and height?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>active white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cache</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>fixed-width page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>flexible page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103247  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to an element that the W3C has identified as ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to an element that the W3C has identified as obsolete?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cascading Style Sheets</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cookie</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>deprecated element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Document Type</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103227  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the blank area that borders the screen or is...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the blank area that borders the screen or is the result of mismatched shapes in a layout?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>grid</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>look and feel</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Media Queries</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>passive white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>screen resolution</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103228  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the browser's temporary storage area for Web...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the browser's temporary storage area for Web pages and images.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>active white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>cache</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>fixed-width page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>flexible page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103248  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the container element for all other elements...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the container element for all other elements in the document?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>root element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>semantic markup</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>single-source</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Standard Generalized Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>style sheet</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103249  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the information about the document itself, ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the information about the document itself, such as how to present the document, or what other documents are related to the current one, such as style sheets?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>markup language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>metadata</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Multipurpose Internet Mail Extensions</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>rendering engine</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103229  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the interface that the user must navigate on...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the interface that the user must navigate on a Web site?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>grid</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>look and feel</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Media Queries</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>passive white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>screen resolution</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103250  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the organization founded in 1994 at the ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the organization founded in 1994 at the Massachusetts Institute of Technology to standardize Web markup languages?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>valid code</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>validator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Web page</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>well-formed document</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>World Wide Web Consortium</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103251  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the section of an HTML document that ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the section of an HTML document that specifies the rules for the document language so the browser knows how to interpret the HTML code and display it properly?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cascading Style Sheets</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cookie</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>deprecated element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Document Type</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103230  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the white space used deliberately as an ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the white space used deliberately as an integral part of your design that provides structure and separates content?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>active white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>cache</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>fixed-width page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>flexible page layout</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103231  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers to the width and height of the computer screen ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers to the width and height of the computer screen in pixels?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>grid</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>look and feel</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Media Queries</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>passive white space</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>screen resolution</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103252  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following refers toa a standard system for specifying document ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following refers toa a standard system for specifying document structure using markup tags?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>root element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>semantic markup</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>single-source</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Standard Generalized Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>style sheet</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103267  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag can be used to mark up a conversation in HTML5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag can be used to mark up a conversation in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>footer</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>nav</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>dialog</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>figure</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103268  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag represents a piece of content that is only ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag represents a piece of content that is only slightly related to the rest of the page in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>section</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>article</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>aside</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>header</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103269  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag represents a section of the document intended for ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag represents a section of the document intended for navigation in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>footer</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>nav</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>section</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>dialog</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103270  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag represents an independent piece of content of a ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag represents an independent piece of content of a document in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>section</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>article</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>aside</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>header</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103271  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag represents the footer of a section in HTML5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag represents the footer of a section in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>footer</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>nav</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>section</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>dialog</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103272  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following tag represents the header of a section in HTML5?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following tag represents the header of a section in HTML5?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>section</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>article</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>aside</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>header</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 103253  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following term refers to create content that can serve multiple ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following term refers to create content that can serve multiple purposes and be distributed to diff erent users or devices?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>root element</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>semantic markup</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>single-source</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Standard Generalized Markup Language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>style sheet</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

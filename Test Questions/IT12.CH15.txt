@@ -1,0 +1,223 @@
+Which of the following statements about wired and wireless LANs is correct?{
+	=Both operate in the lower two layers of the TCP/IP protocol suite.
+	~Wired LANs operate in the lower two layers and wireless LANs operate in the lower three layers of the TCP/IP protocol suite.
+	~Wired LANs operate in the lower three layers and wireless LANs operate in the lower two layers of the TCP/IP protocol suite.
+	~Both operate in the lower three layers of the TCP/IP protocol suite.
+}
+	
+IEEE has defined the specifications for a wireless LAN, called _______, which covers the physical and data-link layers.{
+	~IEEE 802.3
+	~IEEE 802.5
+	=IEEE 802.11
+	~IEEE 802.2
+}
+		
+The CSMA/CD algorithm does not work in wireless LAN because{
+	~wireless host does not have enough power to work in a duplex mode.
+	~of the hidden station problem.
+	~signal fading could prevent a station at one end from hearing a collision at the other end.
+	=all of the choices are correct.
+}
+		
+In IEEE 802.11, a ___ is made of stationary or mobile wireless stations and an optional central base station, known as the access point (AP).{
+	~ESS
+	=BSS
+	~CSS
+	~None of the choices are correct
+}
+	
+In IEEE 802.11, a BSS without an AP is called _________.{
+	=an ad hoc architecture
+	~an infrastructure network
+	~either an ad hoc architecture or an infrastructure network
+	~None of the choices are correct
+}
+	
+In IEEE 802.11, a BSS with an AP is sometimes referred to as ____________.{
+	~an ad hoc architecture
+	=an infrastructure network
+	~either an ad hoc architecture or an infrastructure network
+	~None of the choices are correct
+}
+		
+In IEEE 802.11, communication between two stations in two different BSSs usually occurs via two ________.{
+	~BSSs
+	~ESSs
+	=APs
+	~None of the choices are correct
+}
+		
+In IEEE 802.11, a station with ________ mobility is either stationary (not moving) or moving only inside a BSS.{
+	=no-transition
+	~BSS-transition
+	~ESS-transition
+	~None of the choices are correct
+}
+	
+In IEEE 802.11, a station with ________mobility can move from one BSS to another, but the movement is confined inside one ESS.{
+	~no-transition
+	=BSS-transition
+	~ESS-transition
+	~None of the choices are correct
+}
+		
+In IEEE 802.11, a station with ________ mobility can move from one ESS to another.{
+	~no-transition
+	~BSS-transition
+	=ESS-transition
+	~None of the choices are correct
+}
+	
+In IEEE 802.11, distributed coordination function (DCF) uses _______ as the access method.{
+	=CSMA/CA
+	~CSMA/CD
+	~ALOHA
+	~None of the choices are correct
+}
+		
+In IEEE 802.11, when a frame is going from one station in a BSS to another station in the same BSS, the address flag is _____.{
+	=00
+	~01
+	~10
+	~11
+}
+		
+In IEEE 802.11, when a frame is coming from an AP and going to a station, the address flag is _______.{
+	~00
+	=01
+	~10
+	~11
+}
+		
+In IEEE 802.11, when a frame is going from a station to an AP, the address flag is _____.{
+	~00
+	~01
+	=10
+	~11
+}
+		
+In IEEE 802.11, when a frame is going from one AP to another AP in a wireless distribution system, the address flag is _____.{
+	~00
+	~01
+	~10
+	=11
+}
+		
+In IEEE 802.11, the access method used in the PCF sublayer is ______.{
+	~contention
+	~controlled
+	=polling
+	~None of the choices are correct
+}
+		
+In IEEE 802.11, the ______ is a time period used for collision avoidance.{
+	=NAV
+	~BSS
+	~ESS
+	~None of the choices are correct
+}
+	
+In IEEE 802.11, the addressing mechanism can include up to ______addresses.{
+	=four
+	~five
+	~six
+	~None of the choices are correct
+}
+	
+The original IEEE 802.11 uses _________.{
+	~FHSS
+	~DSSS
+	~OFDM
+	=either FHSS or DSSS
+}
+	
+The IEEE 802.11a uses _________.{
+	~FHSS
+	~DSSS
+	=OFDM
+	~either FHSS or DSSS
+}
+		
+The IEEE 802.11b uses _________.{
+	~FHSS
+	=DSSS
+	~OFDM
+	~either FHSS or DSSS
+}
+		
+The IEEE 802.11g uses _________.{
+	~FHSS
+	~DSSS
+	=OFDM
+	~either FHSS or DSSS
+}
+		
+The IEEE 802.11 FHSS uses ______ modulation.{
+	~ASK
+	=FSK
+	~PSK
+	~None of the choices are correct
+}
+	
+The IEEE 802.11 or IEEE 802.11b DSSS uses ______ modulation.{
+	~ASK
+	~FSK
+	=PSK
+	~None of the choices are correct
+}
+		
+The IEEE 802.11a, IEEE 802.11g, or IEEE 802.11n OFDM uses ______ modulation.{
+	~ASK
+	~FSK
+	~PSK
+	=None of the choices are correct
+}
+	
+Bluetooth is a _______ technology that connects devices (called gadgets) in a small area.{
+	~wired LAN
+	=wireless LAN
+	~VLAN
+	~None of the choices are correct
+}
+	
+In Bluetooth, multiple ________ form a network called a _________.{
+	~scatternet; piconets
+	=piconets: scatternet
+	~piconets: bluenet
+	~bluenet; scatternet
+}
+		
+A Bluetooth network consists of _____ primary device(s) and up to ____ secondary devices.{
+	~one; five
+	~five; three
+	~two; six
+	=one; seven
+}
+		
+In Bluetooth, the current data rate is ____Mbps.{
+	~2
+	~5
+	~11
+	=None of the choices are correct
+}
+	
+The access method in Bluetooth is ________.{
+	~FDMA
+	=TDD-TDMA
+	~CDMA
+	~None of the choices are correct
+}
+		
+In Bluetooth, the _____ link is used when data integrity is more important than avoiding latency.{
+	~SCO
+	=ACL
+	~ACO
+	~SCL
+}
+		
+Bluetooth uses ______ in the physical layer to avoid interference from other devices or other networks.{
+	~DSSS
+	=FHSS
+	~FDMA
+	~None of the choices are correct
+}

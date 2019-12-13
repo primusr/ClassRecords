@@ -1,0 +1,168 @@
+	
+Three security goals are _______________________________________.{
+	~confidentiality, cryptography, and nonrepudiation
+	~confidentiality, encryption, and decryption
+	=confidentiality, integrity, and availability
+	~None of the choices are correct
+}
+		
+Which of the following attacks is threatening integrity?{
+	=Masquerading
+	~Traffic Analysis
+	~Denial of service
+	~None of the choices are correct
+}
+	
+Which of the following attacks is threatening availability?{
+	~Replaying
+	~Modification
+	=Denial of service
+	~None of the choices are correct
+}
+	
+_____________ means concealing the contents of a message by enciphering.{
+	~Steganography
+	=Cryptography
+	~Compressing
+	~None of the choices are correct
+}
+	
+______________means concealing the message by covering it with something else.{
+	~Cryptography
+	=Steganography
+	~Compressing
+	~None of the choices are correct
+}
+		
+In __________cryptography, the same key is used by the sender and the receiver.{
+	=symmetric-key
+	~asymmetric-key
+	~public-key
+	~None of the choices are correct
+}
+		
+In _________ cryptography, the same key is used in both directions.{
+	=symmetric-key
+	~asymmetric-key
+	~public-key
+	~None of the choices are correct
+}
+	
+_________ cryptography is often used for long messages.{
+	=Symmetric-key
+	~Asymmetric-key
+	~Public-key
+	~None of the choices are correct
+}
+		
+___________ cryptography is often used for short messages.{
+	~Symmetric-key
+	=Asymmetric-key
+	~Secret-key
+	~None of the choices are correct
+}
+		
+__________means that the sender and the receiver expect confidentiality.{
+	~Nonrepudiation
+	~Integrity
+	~Authentication
+	=None of the choices are correct
+}
+		
+___________ means that the data must arrive at the receiver exactly as they were sent.{
+	~Nonrepudiation
+	=Message integrity
+	~Authentication
+	~None of the choices are correct
+}
+		
+______________ can provide authentication, integrity, and nonrepudiation for a message.{
+	~Encryption/decryption
+	=Digital signature
+	~Compression
+	~None of the choices are correct
+}
+		
+Digital signature does not provide _________.{
+	~nonrepudiation
+	=privacy
+	~authentication
+	~Provides all of the choices
+}
+		
+In ___________, the identity of a party is verified once for the entire duration of system access.{
+	=entity authentication
+	~message integrity
+	~message authentication
+	~None of the choices are correct
+}
+		
+In __________ cryptography, everyone has access to everyone's public key.{
+	~symmetric-key
+	=asymmetric-key
+	~secret-key
+	~None of the choices are correct
+}
+		
+After a message is encrypted, it is called _______.{
+	~plaintext
+	=ciphertext
+	~cryptotext
+	~None of the choices are correct
+}
+		
+In the asymmetric-key method used for confidentiality, which key is publicly known?{
+	~Encryption key only
+	=Decryption key only
+	~Both keys
+	~None of the choices are correct
+}
+		
+In the asymmetric-key method used for confidentiality, the receiver uses his/her own ______________ to decrypt the message.{
+	~private key
+	=public key
+	~no key
+	~None of the choices are correct
+}
+	
+The RSA algorithm for confidentiality uses _______ cryptography.{
+	=asymmetric-key
+	~symmetric-key
+	~substitution
+	~None of the choices are correct
+}
+	
+In RSA, if user A wants to send an encrypted message to user B, the plaintext is encrypted with the public key of _______.{
+	~user A
+	=user B
+	~the network
+	~None of the choices are correct
+}
+	
+In the digital signature technique when the whole message is signed using an asymmetric key, the sender of the message uses _______ to sign the message.{
+	~his or her own symmetric key
+	=his or her own private key
+	~his or her own public key
+	~None of the choices are correct
+}
+		
+In the digital signature technique when the whole message is signed using an asymmetric key, the receiver of the message uses _______ to verify the signature.{
+	~her or his own public key
+	~her or his own private key
+	=the sender's public key
+	~None of the choices are correct
+}
+		
+A _______ is a trusted third party that solves the problem of symmetric-key distribution.{
+	~CA
+	=KDC
+	~TLS
+	~firewall
+}
+		
+A _______ certifies the binding between a public key and its owner.{
+	=CA
+	~KDC
+	~TLS
+	~None of the choices are correct
+}

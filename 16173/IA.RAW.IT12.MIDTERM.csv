@@ -1,0 +1,19 @@
+"Quiz name","Course name","Open the quiz","Number of complete graded first attempts","Total number of complete graded attempts","Average grade of first attempts","Average grade of all attempts","Average grade of last attempts","Average grade of highest graded attempts","Median grade (for highest graded attempt)","Standard deviation (for highest graded attempt)","Score distribution skewness (for highest graded attempt)","Score distribution kurtosis (for highest graded attempt)","Coefficient of internal consistency (for highest graded attempt)","Error ratio (for highest graded attempt)","Standard error (for highest graded attempt)"
+"Midterm Exam","IT 12 - Data Communication With Networking","Monday, 3 July 2017, 2:35 PM",37,37,39.34%,39.34%,39.34%,39.34%,38.57%,8.16%,0.0542,-0.2119,13.43%,93.04%,7.59%
+Q#,"Question type","Question name",Attempts,"Facility index","Standard deviation","Random guess score","Intended weight","Effective weight","Discrimination index","Discriminative efficiency"
+1,Essay,"Discuss the difference between persistent and non-persistent connection in ...",37,8.11%,24.36%,0.00%,14.29%,8.86%,-19.89%,-33.40%
+2,Essay,"Enumerate 5 advantages of LAN",37,64.86%,23.88%,0.00%,14.29%,13.57%,15.42%,17.26%
+3,Essay,"Enumerate 5 characteristics of LAN",37,43.24%,21.86%,0.00%,14.29%,10.73%,-0.86%,-1.02%
+4,Matching,"Matchng type. Match the following characteristics or description to the ...",37,35.52%,13.31%,25.00%,20.00%,6.33%,-17.29%,-18.27%
+5,"Multiple choice","A ________ is a computer network that covers a small area (home, office, ...",37,94.59%,22.92%,25.00%,2.86%,5.49%,40.25%,94.82%
+6,"Multiple choice","Which of the following  is a device that connects multiple networks using ...",37,51.35%,50.67%,20.00%,2.86%,6.69%,14.26%,17.97%
+7,"Multiple choice","Which of the following corresponds to code 400?",37,51.35%,50.67%,25.00%,2.86%,7.37%,21.55%,27.15%
+8,"Multiple choice","Which of the following corresponds to code 401?",37,45.95%,50.52%,25.00%,2.86%,7.47%,22.87%,29.35%
+9,"Multiple choice","Which of the following corresponds to code 403?",37,43.24%,50.22%,25.00%,2.86%,7.61%,24.89%,30.55%
+10,"Multiple choice","Which of the following corresponds to code 404?",37,81.08%,39.71%,25.00%,2.86%,5.33%,11.87%,17.02%
+11,"Multiple choice","Which of the following is a device that connects multiple networds using ...",37,13.51%,34.66%,20.00%,2.86%,,-27.82%,-41.83%
+12,"Multiple choice","Which of the following is a device that connects two network segments tha are...",37,67.57%,47.46%,20.00%,2.86%,6.35%,14.13%,18.11%
+13,"Multiple choice","Which of the following is also known as a network adpater?",37,45.95%,50.52%,20.00%,2.86%,6.80%,15.53%,19.68%
+14,"Multiple choice","Which of the following is used to transfer data from one compuer to another?",37,48.65%,50.67%,20.00%,2.86%,6.43%,11.74%,15.15%
+15,"Short answer","What does the acronym CSMA/CA stand for?",37,0.00%,0.00%,0.00%,4.29%,0.00%,,
+16,"Short answer","What does the acronym CSMA/CD stand for?",37,2.70%,16.44%,0.00%,4.29%,0.97%,-7.26%,-21.31%

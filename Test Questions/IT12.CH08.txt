@@ -1,0 +1,111 @@
+Circuit switching can be divided into ________ categories.{
+	~two
+	~three
+	~four
+	=None of the choices are correct
+}
+ 	
+Packet switching can be divided into ________ categories.{
+	~two
+	=three
+	~four
+	~None of the choices are correct
+}
+ 	
+Circuit switching is normally used in ___________ layer.{
+	=physical
+	~data-link
+	~network
+	~application
+}
+
+Packet switching is normally used in ___________ layers.{
+	~physical and data-link
+	=data-link and network
+	~network and transport
+	~transport and application
+}
+
+Message switching is normally used in ___________ layer.{
+	~physical
+	~data-link
+	~network
+	=application
+}
+ 	
+In a circuit-switching network, we have ___________ phase(s).{
+	~one
+	~two
+	=three
+	~None of the choices are correct
+}
+
+In a datagram network, we have ___________ phase(s).{
+	~one
+	~two
+	=three
+	~None of the choices are correct
+}
+ 	
+In a virtual-switch network, we have ___________ phase(s).{
+	~one
+	~two
+	=three
+	~None of the choices are correct
+}
+	
+In a ___________ network, each packet is treated independently from all other packets.{
+	~circuit-switched
+	~virtual-circuit
+	=datagram
+	~None of the choices are correct
+}
+
+In a datagram network, the routing table is based on the ___________ in the packet.{
+	~flow label
+	=destination address
+	~VCI
+	~None of the choices are correct
+}
+
+In a virtual-circuit network, the routing table is based on the ___________ in the packet.{
+	~flow label
+	~destination address
+	=VCI
+	~None of the choices are correct
+}
+
+In a datagram network, the destination address ________________________.{
+	~remains the same from the source to the destination
+	=changes at each switch
+	~changes at the destination
+	~None of the choices are correct
+}
+
+In a datagram network, we need ______________ phase(s).{
+	~tear-down
+	~setup
+	~setup and tear-down
+	=None of the choices are correct
+}
+
+In a virtual-circuit network, we need ______________ phase(s).{
+	~tear-down
+	~setup
+	=setup and tear-down
+	~None of the choices are correct
+}
+
+In a __________network, all packets in a message follow the same path.{
+	~datagram
+	=virtual-circuit
+	~circuit-switched
+	~None of the choices are correct
+}
+
+In a __________network, each packet in a message may follow a different path.{
+	=datagram
+	~virtual-circuit
+	~circuit-switched
+	~None of the choices are correct
+}

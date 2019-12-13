@@ -1,0 +1,4116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/ITE3-PRELIM</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>&amp;lt;ol&amp;gt; tags will create what kind of list?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>&amp;lt;ol&amp;gt; tags will create what kind of list?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Numbered List</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Bulleted List</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Grocery List</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>A file that specifies how the screen is divided into frames is called a ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>A file that specifies how the screen is divided into frames is called a __________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>frameset</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>frametable</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>tablelink</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Adding a border to your image helps the visitor to recognize it as what?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Adding a border to your image helps the visitor to recognize it as what?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>A really great picture</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>A frame</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>A Link</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>All HTML tags are enclosed in what?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>All HTML tags are enclosed in what?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>&amp;lt;&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>? and !</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>All normal webpages consist of what two parts?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>All normal webpages consist of what two parts?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Head and body</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Top and bottom</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Body and frameset</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Colors in plain HTML can be specified using?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Colors in plain HTML can be specified using?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Meta tags</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Images</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Hexadecimal Colors</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Colspan=n can be added to only what tag?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Colspan=n can be added to only what tag?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;table&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;td&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;tr&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Defining clickable sub-areas on an image is called?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Defining clickable sub-areas on an image is called?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>imagelinking</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>imagemapping</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>multiple linking</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>How can you open a link in a new browser window?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>How can you open a link in a new browser window?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;a href="url" new&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;a href="url" target="_blank"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;a href="url" target="new</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>How do you add a link which will allow the visitor to send an email from your...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>How do you add a link which will allow the visitor to send an email from your page?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Add an image of an envelope</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Add &amp;lt;a href="sendmailtoyouraddress"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Add &amp;lt;a href="mailto:youraddress"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Imagelinks can show a text label if you add which property?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Imagelinks can show a text label if you add which property?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>alternative</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>str</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>alt</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>In the code &amp;lt;frameset cols="120,*"&amp;gt; the following would be true.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>In the code &amp;lt;frameset cols="120,*"&amp;gt; the following would be true.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Top frame would be 120 pixels high</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Left frame would be 120 inches wide</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Left frame would be 120 pixels wide</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Is it possible to link within the current page?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is it possible to link within the current page?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>No</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Only in framesets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Yes</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>One should never combine the "start" and "type" option?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>One should never combine the "start" and "type" option?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Sometimes True, sometimes False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Rather than using Hspace and Vspace you can use which of the following to add...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Rather than using Hspace and Vspace you can use which of the following to add spacing to your image?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>height and width</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>1x1 pixel transparent image</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>align=+2</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Relative path make your hypertext links______.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Relative path make your hypertext links______.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Portable</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Discrete</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Uniform</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Settings for columns(&amp;lt;td&amp;gt; tag) have higher priority than settings for ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Settings for columns(&amp;lt;td&amp;gt; tag) have higher priority than settings for rows(&amp;lt;tr&amp;gt; tag).</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Sometimes true, sometimes not</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Tags and text that do not show directly on the page are placed where?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Tags and text that do not show directly on the page are placed where?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Body</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Tables</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Head</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The &amp;lt;br&amp;gt;tag adds what to your webpage?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The &amp;lt;br&amp;gt;tag adds what to your webpage?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Line break</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Little bubbles</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Long breaks</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The &amp;lt;i&amp;gt; tag makes text _________.</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The &amp;lt;i&amp;gt; tag makes text _________.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Bold</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Inline</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>\Italic</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The attribute used to choose the type of font in HTML is?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The attribute used to choose the type of font in HTML is?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Character</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Face</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Text-type</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>The background image will scroll when the user scrolls down the page, unless ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>The background image will scroll when the user scrolls down the page, unless you add which property to the &amp;lt;body&amp;gt; tag?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>bgproperties="holdstill"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>bgproperties="fixed"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>bgproperties="stationary"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>There are how many "browser safe colors"?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>There are how many "browser safe colors"?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>16 Million</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>216</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>256</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To create a list using lowercase letters use?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To create a list using lowercase letters use?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;ol "a"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ol letter="a"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;ol type="a"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To seperate single list items use?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To seperate single list items use?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>&amp;lt;li&amp;gt; and &amp;lt;/li&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ol&amp;gt; and &amp;lt;/ol&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ul&amp;gt; and &amp;lt;/ul&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To set the font for a single link, where do you add the &amp;lt;font&amp;gt;&amp;lt;/font&amp;gt; tags?...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To set the font for a single link, where do you add the &amp;lt;font&amp;gt;&amp;lt;/font&amp;gt; tags?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Outside the &amp;lt;a&amp;gt; and &amp;lt;/a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>In the &amp;lt;body&amp;gt; tag</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Inside the &amp;lt;a&amp;gt; and &amp;lt;/a&amp;gt; tags</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To start a list using circles use which of these tags?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To start a list using circles use which of these tags?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>&amp;lt;ul type="circle"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ul "circle"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ul type="round"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>To start a numbered list with regular numerals use?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To start a numbered list with regular numerals use?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;ol type="a"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;ol type="1"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;ol type="I"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Use what to prevent confusion on numbers higher than 9 with hexadecimal colors?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Use what to prevent confusion on numbers higher than 9 with hexadecimal colors?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>!</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>%</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (1)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Arrange Web elements ____ to suggest a conservative, safe, peaceful atmosphere</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Symmetrically</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Asymmetrically</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Accurately</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Consistently</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (10)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>It is a single point in an electronic image.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Bit</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Color</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Pixel</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (11)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Utilize resources and tools to make your Web pages more accessible to people with special needs.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Privacy and Security</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Technical Issues</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Understandability</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Accessibility</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (12)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>This element is the commonly included content on Web sites, it can personalize and familiarize the unknown and can help deliver a message or prompt an action.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Photographs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Animation</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Multimedia</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Audio/Video</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (13)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>This structure presents information in a specific order.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Hierarchical structure</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Linear structure</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Random structure</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>No structure</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (14)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Overly applied consistency makes pages boring and uninteresting.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (15)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Limit the number of colors in your scheme to two.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (16)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Background color should decrease legibility of text.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (17)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Underlying layout structure that arranges a page into rows and columns.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Table</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Grid</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Frames</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Colors</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (18)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Contains cells aligned into rows and columns.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Table</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Grid</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Frames</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Color</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (19)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>This changes a page element when the mouse pointer moves over it.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Layouting</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Cell Padding</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Cell Spacing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Rollovers</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (2)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Web sites can be updated continuously, while print publications are only as current as their  date of publication.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (20)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Allow you to define several attributes all at once to elements with the same HTML tag.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>HTML</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Scripting</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Style Sheets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Table</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (21)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>User Controlled Navigation:</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Offer options to navigating your Web site only through its major paths.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Major navigational paths are determined by the site&amp;#x2019;s outline structure.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Points to another location in relation to the current location.</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Navigation is user based</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (22)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Takes visitors to a different section of the page, a different page on the site, or another Web site.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Style Sheets</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Anchor</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Linking</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Grid</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (23)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Second most common navigation element,  it can be downloaded, purchased, or designed from scratch.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Text</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Image Maps</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Buttons</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Menus</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (24)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Contains hyperlinked text to specific locations within the Web site. Organized alphabetically, or as an outline of the site</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Menus</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Site Index</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Search Features</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Image Maps</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (25)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Underlying pages should include: Link back to home page, Logo or site identifier.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (26)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is a basic word processor bundled with the Windows operating system. This application is used to create HTML files.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Powerpoint</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Word</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Writer</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Notepad</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (27)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>HTML stands for?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>HyperTextual Markup Language</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>HyperText Machine Language</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>HyperText Markup Language</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>HyperTags Markup Language</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (28)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>HTML uses anchor tag to create link to another document.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (29)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is a worldwide collection of networks, each of which is composed of a collection of smaller networks</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Internet</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>World Wide Web</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Web Site</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (3)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>White space can help define proximity and organize Web page elements.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (30)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is a collection of linked Web pages.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Internet</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>World Wide Web</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Web Site</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (31)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is a temporary connection that uses one or more analog phone lines. Requires a modem on each end of the connection</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Dedicated Lines</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Dial up Lines</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ISDN Lines</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>T-carrier Lines</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (32)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is the speed at which a line carries data and information</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Internet</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Bit</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Transfer Rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (33)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Is a short-range wireless connection that utilizes radio frequency to transmit data between two electronic devices.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Bandwidth</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Bluethoot</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Wifi</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Transfer Rate</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (34)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>It is important to identify what would appeal to your audience when developing an entertainment element.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (35)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>A Web Programmer is considered as a Creative Role.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (4)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Create Web pages with ___ to elicit awareness and establish a focal point, the center of interest or activity.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Focal Point</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Contrast</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Balance</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Unity</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (5)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Create unity with consistency and non repetition across your Web pages.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (6)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Visitors of websites lands on the page and looks over it to see if it is relevant or interesting.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Reading</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Skimming</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Scanning</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Reviewing</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (7)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>People&amp;#x2019;s reading speed slows down significantly when they read online text.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (8)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>To assist readability: Use 10 point font, Avoid typing in all lowercase, Use a sans serif type font, Use plain or subtle backgrounds.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>True</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>False</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Web Development1 Prelim Examination (9)</text>
+    </name>
+    <questiontext format="HTML">
+      <text>These colors are associated with activity and power.</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Cool</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Cold</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Warm</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Hot</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is the correct HTML for creating a hyperlink?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What is the correct HTML for creating a hyperlink?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;a name ="http://www.qualitypointtech.com"&amp;gt;Qualitypoint Technologies&amp;lt;/a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;a href ="http://www.qualitypointtech.com"&amp;gt;Qualitypoint Technologies&amp;lt;/a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;a&amp;gt;http://www.qualitypointtech.com&amp;lt;/a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;a url="http://www.qualitypointtech.com"&amp;gt;Qualitypoint Technologies&amp;lt;/a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is the correct HTML tag for inserting a line break?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What is the correct HTML tag for inserting a line break?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;lb/&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;br/&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;break/&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is the most important tool for adding colors to certain areas of the ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What is the most important tool for adding colors to certain areas of the page rather than the entire background?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Fonts</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Tables</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Images</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What is used to store information usually relevant to browsers and ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What is used to store information usually relevant to browsers and searchengines?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Tabs</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Cookies</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Metatags</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What tag adds a paragraph break after the text?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What tag adds a paragraph break after the text?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;PARAGRAPH&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;P&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;BR&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What tag tells the browser where the page starts and stops?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What tag tells the browser where the page starts and stops?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;head&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;body&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;html&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>What tag tells where a link starts?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>What tag tells where a link starts?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;l&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;start&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;a&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>When making bulleted lists you have what options?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>When making bulleted lists you have what options?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>disc, circle, square</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>triangle, square, circle</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>square, disc, polygon</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is NOT a valid pair for browser safe colors?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following is NOT a valid pair for browser safe colors?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>AA</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>CC</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>00</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of the following will NOT be found in the &amp;lt;head&amp;gt; section?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of the following will NOT be found in the &amp;lt;head&amp;gt; section?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Metatags</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Title</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Table</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of these is not valid HTML?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of these is not valid HTML?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;font face="verdana,arial"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;fontface="verdana"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;font face="verdana"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which of these tags are all &amp;lt;table&amp;gt;tags?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which of these tags are all &amp;lt;table&amp;gt;tags?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;thead&amp;gt;&amp;lt;body&amp;gt;&amp;lt;tr&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;table&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;table&amp;gt;&amp;lt;head&amp;gt;&amp;lt;tfoot&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;table&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;tt&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which program do you need to write HTML?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which program do you need to write HTML?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Any text editor</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>HTML-development suite 4</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>A graphics program</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which property tells how many rows a cell should span?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which property tells how many rows a cell should span?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>colspan=n</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Both rowspan=n and colspan=n</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>rowspan=n</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which property will open a page in a new window?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which property will open a page in a new window?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>target="_self"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>target="_blank"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>target="_top"</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which section is used for text and tags that are shown directly on your web ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which section is used for text and tags that are shown directly on your web page?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Body</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Metatags</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Head</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which tag is used to insert images into your web page?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which tag is used to insert images into your web page?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>pic</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>scr</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>img</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which two meta tags have special relevance for search engines?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which two meta tags have special relevance for search engines?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Description and Keywords</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Description and Name</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Cookies and Keywords</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Which will let text wrap down the side of the image?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Which will let text wrap down the side of the image?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>&amp;lt;img src="myImage.gif" align="wrap"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>&amp;lt;img src="myImage.gif" align="right"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>&amp;lt;img src="myImage.gif" wrap="on"&amp;gt;</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Why do designers often use slight variations of black and white as background...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Why do designers often use slight variations of black and white as background colors?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Personal choice</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Black and white are ugly colors</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>To make the page more readable</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Why should you add alternative text to your images?</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Why should you add alternative text to your images?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>In case the user wishes to load a different picture</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>So the user can save the image using the text as a name</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>So the users can get an idea of what the image is before it loads</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Why should you specify a background color if you are using an image for the ...</text>
+    </name>
+    <questiontext format="HTML">
+      <text>Why should you specify a background color if you are using an image for the actual background of your page?</text>
+    </questiontext>
+    <image />
+    <image_base64 />
+    <generalfeedback>
+      <text />
+    </generalfeedback>
+    <defaultgrade>0</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>Partly correct</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text />
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>The background color will be shown until the image loads</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>In case the image doesnt fit right</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>So the text shows up better</text>
+      <feedback>
+        <text />
+      </feedback>
+    </answer>
+  </question>
+</quiz>

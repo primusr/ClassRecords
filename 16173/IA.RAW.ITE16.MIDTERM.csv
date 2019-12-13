@@ -1,0 +1,60 @@
+"Quiz name","Course name","Open the quiz","Number of complete graded first attempts","Total number of complete graded attempts","Average grade of first attempts","Average grade of all attempts","Average grade of last attempts","Average grade of highest graded attempts","Median grade (for highest graded attempt)","Standard deviation (for highest graded attempt)","Score distribution skewness (for highest graded attempt)","Score distribution kurtosis (for highest graded attempt)","Coefficient of internal consistency (for highest graded attempt)","Error ratio (for highest graded attempt)","Standard error (for highest graded attempt)"
+"Midterm Exam","ITE16 - Multimedia Systems","Friday, 30 June 2017, 9:00 AM",34,34,43.29%,43.29%,43.29%,43.29%,40.00%,13.94%,0.4094,-0.8554,77.03%,47.93%,6.68%
+Q#,"Question type","Question name",Attempts,"Facility index","Standard deviation","Random guess score","Intended weight","Effective weight","Discrimination index","Discriminative efficiency"
+1,Matching,"Matching Type",34,44.71%,27.99%,10.00%,13.33%,8.42%,76.12%,77.57%
+2,Matching,"Select the appropriate term in the second column to complete the sentences.",34,59.12%,28.22%,10.00%,13.33%,8.57%,79.89%,82.75%
+3,"Multiple choice","""Unlimited use"" of stock photography may actually impose a limitation on:",34,14.71%,35.95%,20.00%,1.33%,,-13.35%,-19.02%
+4,"Multiple choice","A 24-bit image is capable of representing how many different colors?",34,35.29%,48.51%,20.00%,1.33%,0.94%,1.55%,1.82%
+5,"Multiple choice","A family of graphic characters that usually includes many type sizes and ...",34,32.35%,47.49%,20.00%,1.33%,,-16.15%,-18.96%
+6,"Multiple choice","A GIF image may contain:",34,29.41%,46.25%,20.00%,1.33%,,-17.90%,-20.96%
+7,"Multiple choice","A printed page might be presented in which of these orientations?",34,70.59%,46.25%,20.00%,1.33%,2.12%,29.01%,40.52%
+8,"Multiple choice","As one story goes, the criterion used to set the length of the sectors and ...",34,50.00%,50.75%,20.00%,1.33%,3.05%,59.14%,72.56%
+9,"Multiple choice","Audio recorded at 44.1 kHz (kilohertz), 16-bit stereo is considered:",34,32.35%,47.49%,20.00%,1.33%,1.23%,6.36%,7.45%
+10,"Multiple choice","DSP stands for:",34,61.76%,49.33%,20.00%,1.33%,2.35%,34.13%,44.57%
+11,"Multiple choice","Dynamic HTML uses _______ to define choices ranging from line height to ...",34,58.82%,49.96%,20.00%,1.33%,,-24.49%,-31.98%
+12,"Multiple choice","Each individual measurement of a sound that is stored as digital information ...",34,8.82%,28.79%,20.00%,1.33%,,-5.18%,-9.22%
+13,"Multiple choice","Graphic artists designing for print media use vector-drawn objects because:",34,29.41%,46.25%,20.00%,1.33%,2.85%,56.76%,67.23%
+14,"Multiple choice","If a DHTML document includes a font face that is not installed on the user's ...",34,76.47%,43.06%,20.00%,1.33%,2.06%,29.77%,44.25%
+15,"Multiple choice","In the URL http://www.timestream.com/info/people/biotay/biotay1.html, which ...",34,41.18%,49.96%,20.00%,1.33%,2.23%,29.56%,34.80%
+16,"Multiple choice","Interactive multimedia becomes hypermedia when:",34,52.94%,50.66%,20.00%,1.33%,2.01%,22.62%,28.29%
+17,"Multiple choice","Intercapping, the practice of placing a capital in the middle of a word, is a...",34,35.29%,48.51%,20.00%,1.33%,,-12.73%,-15.02%
+18,"Multiple choice","Multimedia becomes interactive multimedia when:",34,44.12%,50.40%,20.00%,1.33%,2.47%,37.26%,43.97%
+19,"Multiple choice","Name the area of memory where data such as text and images is temporarily ...",34,76.47%,43.06%,20.00%,1.33%,2.14%,32.54%,49.30%
+20,"Multiple choice","Perhaps the single most significant advance in computer image processing ...",34,20.59%,41.04%,20.00%,1.33%,1.00%,4.35%,5.53%
+21,"Multiple choice","Reducing the number of separate measurements of an audio file is called ...",34,47.06%,50.66%,25.00%,1.33%,2.85%,51.09%,61.70%
+22,"Multiple choice","Removing blank space or ""dead air"" at the beginning or end of a recording is ...",34,88.24%,32.70%,20.00%,1.33%,2.04%,40.73%,80.48%
+23,"Multiple choice","Sequencing software:",34,5.88%,23.88%,20.00%,1.33%,1.01%,12.39%,26.66%
+24,"Multiple choice","Some software allows you to begin playing a downloading sound file as soon as...",34,23.53%,43.06%,25.00%,1.33%,2.21%,34.94%,42.91%
+25,"Multiple choice","Sound pressure levels (loudness or volume) are measured in _______________.",34,52.94%,50.66%,25.00%,1.33%,3.18%,65.06%,81.49%
+26,"Multiple choice","The 3-D process of extending a plane surface some distance, either ...",34,26.47%,44.78%,20.00%,1.33%,2.40%,40.31%,48.86%
+27,"Multiple choice","The audio file format introduced by Microsoft and IBM with the introduction ...",34,64.71%,48.51%,25.00%,1.33%,2.65%,45.76%,61.44%
+28,"Multiple choice","The branch of physics that studies sound is _______________.",34,41.18%,49.96%,25.00%,1.33%,2.82%,50.70%,59.91%
+29,"Multiple choice","The file format that uses a shorthand representation of musical notes and ...",34,50.00%,50.75%,20.00%,1.33%,1.82%,17.59%,21.55%
+30,"Multiple choice","The file size of a five-second recording sampled at 22 kHz, 16-bit stereo ...",34,29.41%,46.25%,20.00%,1.33%,1.68%,16.58%,19.54%
+31,"Multiple choice","The most common file format for editing sound on the Macintosh is ...",34,38.24%,49.33%,25.00%,1.33%,0.57%,-2.44%,-2.86%
+32,"Multiple choice","The primary benefit of the General MIDI over the previous MIDI specification ...",34,5.88%,23.88%,20.00%,1.33%,,-9.48%,-20.49%
+33,"Multiple choice","The process of playing a sound file while part of the file is still ...",34,64.71%,48.51%,25.00%,1.33%,2.03%,24.74%,33.27%
+34,"Multiple choice","The process of recording a sound, stored in the  form of thousands of ...",34,14.71%,35.95%,20.00%,1.33%,1.77%,26.36%,37.49%
+35,"Multiple choice","The Red Book standard was so named because:",34,0.00%,0.00%,20.00%,1.33%,0.00%,,
+36,"Multiple choice","The reference from one document to another document, image, sound, or file on...",34,14.71%,35.95%,20.00%,1.33%,1.67%,23.08%,32.86%
+37,"Multiple choice","The slower a user's connection, the longer he must wait for enough of the ...",34,41.18%,49.96%,20.00%,1.33%,2.45%,36.76%,43.43%
+38,"Multiple choice","The standard file format for displaying digitized motion video on the ...",34,32.35%,47.49%,25.00%,1.33%,1.59%,13.76%,16.17%
+39,"Multiple choice","TIFF stands for:",34,29.41%,46.25%,20.00%,1.33%,1.18%,5.81%,6.88%
+40,"Multiple choice","To adjust the level of a number of tracks to bring them all up to about the ...",34,64.71%,48.51%,25.00%,1.33%,2.85%,53.91%,72.70%
+41,"Multiple choice","Vector-drawn objects are used for all of the following except:",34,85.29%,35.95%,20.00%,1.33%,1.73%,25.30%,45.66%
+42,"Multiple choice","Web pages are coded using:",34,79.41%,41.04%,20.00%,1.33%,2.23%,37.83%,58.77%
+43,"Multiple choice","What happens when an audio signal exceeds the recording device's maximum ...",34,47.06%,50.66%,20.00%,1.33%,1.86%,18.50%,22.38%
+44,"Multiple choice","What is the best way to start creating your project's interface?",34,5.88%,23.88%,20.00%,1.33%,1.34%,23.41%,51.58%
+45,"Multiple choice","When an image created on a Macintosh is viewed on a PC:",34,41.18%,49.96%,20.00%,1.33%,1.66%,14.14%,16.65%
+46,"Multiple choice","When audio is measured in order to be digitally stored, the value of each ...",34,35.29%,48.51%,25.00%,1.33%,1.76%,17.24%,20.19%
+47,"Multiple choice","Which image file type is best for photographs?",34,52.94%,50.66%,20.00%,1.33%,2.62%,42.13%,52.96%
+48,"Multiple choice","Which of the following is a character encoding system?",34,55.88%,50.40%,20.00%,1.33%,,-12.78%,-16.10%
+49,"Multiple choice","Which of the following is a problem that might apply to hypermedia?",34,52.94%,50.66%,20.00%,1.33%,0.36%,-3.97%,-4.99%
+50,"Multiple choice","Which of the following is a term that applies to the spacing between ...",34,29.41%,46.25%,20.00%,1.33%,,-22.83%,-26.99%
+51,"Multiple choice","Which of the following is a typical method for word searching in a hypermedia...",34,5.88%,23.88%,20.00%,1.33%,,-34.72%,-75.50%
+52,"Multiple choice","Which of the following is not a color specification format?",34,50.00%,50.75%,20.00%,1.33%,2.18%,27.53%,33.81%
+53,"Multiple choice","Which of the following is not a native Windows graphics file format?",34,44.12%,50.40%,20.00%,1.33%,,-26.96%,-31.72%
+54,"Multiple choice","Which of the following provides a system for dynamically displaying a font?",34,32.35%,47.49%,20.00%,1.33%,1.86%,20.59%,24.12%
+55,"Multiple choice","Which of the following sound file characteristics does not directly affect ...",34,70.59%,46.25%,20.00%,1.33%,2.52%,43.26%,60.59%
+56,"Multiple choice","Which of these is the correct HTML hexadecimal representation of magenta red ...",34,8.82%,28.79%,25.00%,1.33%,,-8.19%,-14.59%
+57,"Multiple choice","Which of these statements regarding the MIDI audio format is not true?",34,5.88%,23.88%,20.00%,1.33%,1.68%,38.18%,83.86%

@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 10245  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[&lt; script language="javascript" &gt;
+function sum(x)
+{
+function add(y)
+{
+return ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[&lt; script language="javascript" &gt;
+function sum(x)
+{
+function add(y)
+{
+return x+y;
+}
+return add;
+}
+function callme() { result=sum(5)(5); alert(result); }
+&lt; /script &gt;
+If you call the function callme(), what will happen?]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>10</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error in calling Function</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>5</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10239  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[&lt; script language="javascript" &gt;
+function x()
+{
+var qpt = "First come, first ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[&lt; script language="javascript" &gt;
+function x()
+{
+var qpt = "First come, first served";
+var pattern = /first/gi;
+document.write(qpt.match(pattern)[1]);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>first</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>undefined</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>First</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10247  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[&lt; script type="text/javascript" &gt;
+document.write("&lt; h1 &gt; This is a heading&lt; ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[&lt; script type="text/javascript" &gt;
+document.write("&lt; h1 &gt; This is a heading&lt; /h1 &gt; ");
+document.write("&lt; p &gt; This is a paragraph.&lt; /p &gt; ");
+document.write("&lt; p &gt; This is another paragraph.&lt; /p &gt; ");
+&lt; /script &gt;
+Can you write HTML tag inside the javascript?]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>No</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Yes</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Impossible</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10240  -->
+  <question type="multichoice">
+    <name>
+      <text>(a). // , /* ...... **/
+(b). / , /** ......./ , /*
+(c). /*......*/ , //
+(d). ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>(a). // , /* ...... **/
+(b). / , /** ......./ , /*
+(c). /*......*/ , //
+(d). \*......*\ , //
+In javascript, Which of the above Comments lines are used?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Only (d)</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Only (c)</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Either (c) or (d)</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Only (b)</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10238  -->
+  <question type="multichoice">
+    <name>
+      <text>?_name is it valid javascript identifier?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>?_name is it valid javascript identifier?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Yes</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>No</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10209  -->
+  <question type="multichoice">
+    <name>
+      <text>Are java and javascript the same?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Are java and javascript the same?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>NO</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>YES</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10208  -->
+  <question type="multichoice">
+    <name>
+      <text>Choose the client-side JavaScript object:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Choose the client-side JavaScript object:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Database</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cursor</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Client</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>FileUpLoad</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10228  -->
+  <question type="multichoice">
+    <name>
+      <text>Choose the external object:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Choose the external object:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Option</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Layer</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Checkbox</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10229  -->
+  <question type="multichoice">
+    <name>
+      <text>Choose the four symbol pairs that represent RegExp properties lastMatch, ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Choose the four symbol pairs that represent RegExp properties lastMatch, lastParent, leftContext, and rightContext, respectively:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text><![CDATA[$&, $+, $`, $']]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[$+, $&, $', $`]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[$&, $]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>, $`, $'</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[$+, $&, $`, $']]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10217  -->
+  <question type="multichoice">
+    <name>
+      <text>Choose the server-side JavaScript object:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Choose the server-side JavaScript object:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>FileUpLoad</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Function</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>File</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Date</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10225  -->
+  <question type="multichoice">
+    <name>
+      <text>How do you create a new object in JavaScript?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>How do you create a new object in JavaScript?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>var obj = {};</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>var obj = Object();</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>var obj=new {};</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10233  -->
+  <question type="multichoice">
+    <name>
+      <text>How to assign a function to a variable with the JavaScript Function contructor?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>How to assign a function to a variable with the JavaScript Function contructor?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text><![CDATA[var f=Function("x","y","return x+y");]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>var f=Function(x,y){ return x+y;}</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text><![CDATA[var f= new Function("x", "y", "return x + y");]]></text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10227  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[If x=103 & y=9 then x%=y , what is the value of x after executing x%=y?]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[If x=103 & y=9 then x%=y , what is the value of x after executing x%=y?]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>4</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>3</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>5</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10226  -->
+  <question type="multichoice">
+    <name>
+      <text>In Javascript, What does isNaN function do?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In Javascript, What does isNaN function do?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Return true if the argument is not a number.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Return false if the argument is not a number.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Return true if the argument is a number.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10221  -->
+  <question type="multichoice">
+    <name>
+      <text>In Javascript, Which of the following method is used to evaluate the regular ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In Javascript, Which of the following method is used to evaluate the regular expression?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>eval(2*(3+5))</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>evaluate(2*(3+5))</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>evalu(2*(3+5))</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10234  -->
+  <question type="multichoice">
+    <name>
+      <text>In JavaScript, Window.alert() is used to allow user to enter something.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In JavaScript, Window.alert() is used to allow user to enter something.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10213  -->
+  <question type="multichoice">
+    <name>
+      <text>In JavaScript, Window.prompt() method return true or false value?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>In JavaScript, Window.prompt() method return true or false value?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10201  -->
+  <question type="multichoice">
+    <name>
+      <text>Is it possible to nest functions in JavaScript?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Is it possible to nest functions in JavaScript?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>True</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>False</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10236  -->
+  <question type="multichoice">
+    <name>
+      <text>Is Javascript has any date data type?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Is Javascript has any date data type?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Yes</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>No</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10237  -->
+  <question type="multichoice">
+    <name>
+      <text>Math. round(-20.5)=?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Math. round(-20.5)=?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>-21</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>20</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-20</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>21</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10214  -->
+  <question type="multichoice">
+    <name>
+      <text>Math. round(-20.51)=?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Math. round(-20.51)=?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>20</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>-21</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>19</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10218  -->
+  <question type="multichoice">
+    <name>
+      <text>parseFloat(9+10)=?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>parseFloat(9+10)=?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>19</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>910</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>None</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10231  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[ParseInt("15",10)=?]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[ParseInt("15",10)=?]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>15</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>10</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>151</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>150</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10204  -->
+  <question type="multichoice">
+    <name>
+      <text>Scripting language are:</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Scripting language are:</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>High Level Programming language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Assembly Level programming language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Machine level programming language</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10210  -->
+  <question type="multichoice">
+    <name>
+      <text>Syntax for creating a RegExp object:
+(a). var txt=new ...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Syntax for creating a RegExp object:
+(a). var txt=new RegExp(pattern,attributes);
+(b). var txt=/pattern/attributes;
+Which of the above mentioned syntax will correct?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>(a) only</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>(b) only</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Both (a) and (b)</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10212  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is mean by "this" keyword in javascript?]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is mean by "this" keyword in javascript?]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>It refers current object</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>It referes previous object</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>It is variable which contains value</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10202  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script &gt;
+document....]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script &gt;
+document.write(navigator.appCodeName);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>get code name of the browser of a visitor</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>set code name of the browser of a visitor</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10241  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var s = "Give 100%!{[!!";
+var pattern = /\W/g;
+var output = s.match(pattern);
+document.write(output);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>,%,!,{,[,!,!</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>G,i,v,e,1,0,0</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Give 100</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10244  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var qpt = "First come, first served";
+var pattern = /first/g;
+document.write(qpt.match(pattern)[1]);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>first</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>First</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>undefined</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10206  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var s= "Good 100%";
+var pattern = /\D/g;
+var output= s.match(pattern);
+document.write(output);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Good %</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1,0,0</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>G,o,o,d,%</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10207  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+var qpt="QUALITY POINT TECHNOLOGIES";
+alert(qpt.charAt(qpt.length-1));
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>P</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>E</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>S</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10211  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x(z,t)
+{
+alert(x.length);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>2</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>1</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>3</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10215  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var s = "Quality 100%!{[!!";
+var pattern = /\w/g;
+var output = s.match(pattern);
+document.write(output);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>%,!,{,[,!,!</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Q,u,a,l,i,t,y,1,0,0</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Quality 100</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10219  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+document.write(2+5+"8");
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>258</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>7</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>78</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10222  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var s= "quality 100%";
+var pattern = /\d/g;
+var output= s.match(pattern);
+document.write(output);
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>100</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>1,0,0</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>q,u,a,l,i,t,y,%</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10224  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var qpt = "QualityPointTechnologies";
+var pattern = new RegExp("POIiNT","i");
+document.write(qpt.match(pattern));
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>POIiNT</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Point</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>null</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10235  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" ...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script language="javascript" &gt;
+function x()
+{
+var qpt = "We are fast growing Software Company located in Chennai, India.";
+var pattern = new RegExp("in","gi");
+document.write(pattern.exec(qpt) + " ");
+document.write(pattern.exec(qpt) + " ");
+document.write(pattern.exec(qpt) + " ");
+}
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>in in In</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>in in in</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>in in null</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>in null null</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10243  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript"...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript" language="javascript" &gt;
+var qpt="QualityPointTechnologies";
+var result =qpt.lastIndexOf("l");
+document.write(result);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>3</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>18</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>17</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>19</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10199  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript"...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript" &gt;
+x=4+"4";
+document.write(x);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>44</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>8</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>4</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error output</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10200  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript"...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript" language="javascript" &gt;
+var qpt = "Qualiyt Point Technologies";
+var result = qpt.split(" ");
+document.write(result);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Quality</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Q,u,a,l,i,t,y,P,o,i,n,t,T,e,c,h,n,o,l,o,g,i,e,s</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Qualiyt,Point,Technologies</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>QualityPointTechnologies</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10216  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript"...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript" language="javascript" &gt;
+var qpt= new Array();
+qpt[0] = "WebDevelopment";
+qpt[1]="ApplicationDevelopment"
+qpt[2]="Testing"
+qpt[3] = "QualityPointTechnologies";
+document.write(qpt[0,1,2,3]);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>QualityPointTechnologies</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>WebDevelopment</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>WebDevelopmnet,ApplicationDevelopment,Testing,QualityPointTechnologies</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10223  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript"...]]></text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text><![CDATA[What is the output of the code snippet below?
+&lt; script type="text/javascript" language="javascript" &gt;
+qpt=((45%2)==0)? "hello" : "bye";
+document.write(qpt);
+&lt; /script &gt;]]></text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>hello</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>bye</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Error in string handling</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>None of the above</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10242  -->
+  <question type="multichoice">
+    <name>
+      <text>Which best describes void?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which best describes void?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A method</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A function</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A statement</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>An operator</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10205  -->
+  <question type="multichoice">
+    <name>
+      <text>Which best explains getSelection()?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which best explains getSelection()?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Returns the VALUE of a selected OPTION.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Returns document.URL of the window in focus.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Returns the value of cursor-selected text</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Returns the VALUE of a checked radio input.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10248  -->
+  <question type="multichoice">
+    <name>
+      <text>Which feature is supported in MSIE 3.x?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which feature is supported in MSIE 3.x?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>split()</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>document.clear()</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>join()</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>charAt()</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10232  -->
+  <question type="multichoice">
+    <name>
+      <text>Which JavaScript feature uses JAR files?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which JavaScript feature uses JAR files?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Object signing</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Style sheets</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Netcaster channels</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Image rollovers</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10203  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is true.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following is true.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>If onKeyDown returns false, the key-press event is cancelled.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>If onKeyPress returns false, the key-down event is cancelled.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>If onKeyDown returns false, the key-up event is cancelled.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>If onKeyPress returns false, the key-up event is canceled.</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10230  -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following properties hold the values of the pixels of the length...</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following properties hold the values of the pixels of the length of the width and height of the viewer's screen resolution?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>screen.width and screen.height</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Resolution.width and Resolution.height</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>screen.pixels.width and screen.pixels.height</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>ViewerScreen.width and ViewerScreen.height</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10246  -->
+  <question type="multichoice">
+    <name>
+      <text>Who invented the javascript programming language?</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Who invented the javascript programming language?</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Tennis Ritchie</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>James Gosling</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Brendan Eich</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 10220  -->
+  <question type="multichoice">
+    <name>
+      <text>_________ keyword is used to declare variables in javascript.</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>_________ keyword is used to declare variables in javascript.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Var</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Dim</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>String</text>
+      <feedback format="moodle_auto_format">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

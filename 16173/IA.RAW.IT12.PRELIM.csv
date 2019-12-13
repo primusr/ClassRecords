@@ -1,0 +1,73 @@
+"Quiz name","Course name","Open the quiz","Number of complete graded first attempts","Total number of complete graded attempts","Average grade of first attempts","Average grade of all attempts","Average grade of last attempts","Average grade of highest graded attempts","Median grade (for highest graded attempt)","Standard deviation (for highest graded attempt)","Score distribution skewness (for highest graded attempt)","Score distribution kurtosis (for highest graded attempt)","Coefficient of internal consistency (for highest graded attempt)","Error ratio (for highest graded attempt)","Standard error (for highest graded attempt)"
+"Prelim Exam","IT 12 - Data Communication With Networking","Thursday, 1 June 2017, 2:35 PM",40,40,47.07%,47.07%,47.07%,47.07%,47.14%,12.50%,0.2241,-0.4836,83.16%,41.04%,5.13%
+Q#,"Question type","Question name",Attempts,"Facility index","Standard deviation","Random guess score","Intended weight","Effective weight","Discrimination index","Discriminative efficiency"
+1,"Multiple choice","A port address in TCP/IP is ______ bits long.",40,30.00%,46.41%,25.00%,1.43%,1.41%,17.36%,21.73%
+2,"Multiple choice","A television broadcast is an example of _______ transmission.",40,60.00%,49.61%,25.00%,1.43%,2.01%,37.85%,47.21%
+3,"Multiple choice","A _______ connection provides a dedicated link between two devices.",40,82.50%,38.48%,25.00%,1.43%,1.33%,19.90%,31.60%
+4,"Multiple choice","An unauthorized user is a network _______ issue.",40,85.00%,36.16%,25.00%,1.43%,1.60%,33.40%,56.70%
+5,"Multiple choice","As the data packet moves from the upper to the lower layers, headers are ...",40,10.00%,30.38%,25.00%,1.43%,,-5.20%,-8.63%
+6,"Multiple choice","Communication between a computer and a keyboard involves ______________ ...",40,67.50%,47.43%,25.00%,1.43%,1.30%,13.45%,17.46%
+7,"Multiple choice","Data flow between two devices can occur in a _______ way.",40,12.50%,33.49%,25.00%,1.43%,1.04%,13.09%,19.87%
+8,"Multiple choice","Ethernet uses a ______ physical address that is imprinted on the network ...",40,15.00%,36.16%,25.00%,1.43%,,-13.55%,-19.49%
+9,"Multiple choice","Frequency of failure and network recovery time after a failure are measures ...",40,57.50%,50.06%,25.00%,1.43%,2.49%,61.59%,77.16%
+10,"Multiple choice","ICMPv6 includes _______.",40,37.50%,49.03%,25.00%,1.43%,1.33%,13.50%,16.78%
+11,"Multiple choice","In a ______ connection, two and only two devices are connected by a dedicated...",40,82.50%,38.48%,25.00%,1.43%,1.90%,45.81%,72.80%
+12,"Multiple choice","In a ________ connection, three or more devices share a link.",40,12.50%,33.49%,25.00%,1.43%,0.98%,11.33%,17.20%
+13,"Multiple choice","In the original ARPANET, _______ were directly connected together.",40,37.50%,49.03%,25.00%,1.43%,,-5.75%,-7.11%
+14,"Multiple choice","In the OSI model, as a data packet moves from the lower to the upper layers, ...",40,25.00%,43.85%,25.00%,1.43%,2.04%,45.89%,59.82%
+15,"Multiple choice","In the OSI model, encryption and decryption are functions of the ________ layer.",40,37.50%,49.03%,25.00%,1.43%,1.71%,26.36%,33.02%
+16,"Multiple choice","In the OSI model, what is the main function of the transport layer?",40,62.50%,49.03%,25.00%,1.43%,1.50%,18.68%,23.96%
+17,"Multiple choice","In the OSI model, when data is transmitted from device A to device B, the ...",40,42.50%,50.06%,25.00%,1.43%,1.31%,12.45%,15.26%
+18,"Multiple choice","In _______ transmission, the channel capacity is shared by both communicating...",40,80.00%,40.51%,25.00%,1.43%,1.26%,16.20%,24.34%
+19,"Multiple choice","Layer 2 lies between the physical layer and the _______ layer.",40,60.00%,49.61%,25.00%,1.43%,2.14%,44.05%,55.59%
+20,"Multiple choice","Mail services are available to network users through the _______ layer.",40,65.00%,48.30%,25.00%,1.43%,1.69%,26.02%,33.18%
+21,"Multiple choice","TCP/IP is a ______ hierarchical protocol suite developed ____ the OSI model.",40,47.50%,50.57%,25.00%,1.43%,1.92%,33.13%,40.87%
+22,"Multiple choice","The information to be communicated in a data communications system is the ...",40,62.50%,49.03%,25.00%,1.43%,1.53%,19.91%,25.31%
+23,"Multiple choice","The Internet model consists of _______ layers.",40,37.50%,49.03%,25.00%,1.43%,1.39%,15.33%,19.03%
+24,"Multiple choice","The Internetworking Protocol (IP) is a ________ protocol.",40,7.50%,26.67%,25.00%,1.43%,0.63%,4.82%,8.86%
+25,"Multiple choice","The OSI model consists of _______ layers.",40,85.00%,36.16%,25.00%,1.43%,1.71%,39.25%,65.56%
+26,"Multiple choice","The physical layer is concerned with the movement of _______ over the ...",40,72.50%,45.22%,25.00%,1.43%,1.92%,38.73%,52.46%
+27,"Multiple choice","The physical, data link, and network layers are the ______ support layers.",40,47.50%,50.57%,25.00%,1.43%,2.25%,48.35%,59.99%
+28,"Multiple choice","The process-to-process delivery of the entire message is the responsibility ...",40,70.00%,46.41%,25.00%,1.43%,2.06%,44.03%,59.13%
+29,"Multiple choice","The session, presentation, and application layers are the ____ support layers.",40,52.50%,50.57%,25.00%,1.43%,1.64%,22.40%,27.98%
+30,"Multiple choice","The seven-layer _____ model provides guidelines for the development of ...",40,82.50%,38.48%,25.00%,1.43%,1.31%,19.13%,30.02%
+31,"Multiple choice","The TCP/IP _______ layer is equivalent to the combined session, presentation,...",40,42.50%,50.06%,25.00%,1.43%,1.13%,7.70%,9.61%
+32,"Multiple choice","The ____ address uniquely defines a host on the Internet.",40,77.50%,42.29%,25.00%,1.43%,0.87%,4.57%,6.54%
+33,"Multiple choice","The ____ created a model called the Open Systems Interconnection, which ...",40,75.00%,43.85%,25.00%,1.43%,2.04%,45.89%,63.81%
+34,"Multiple choice","The ______ layer adds a header to the packet coming from the upper layer that...",40,37.50%,49.03%,25.00%,1.43%,,-30.39%,-37.58%
+35,"Multiple choice","The ______ layer establishes, maintains, and synchronizes the interactions ...",40,50.00%,50.64%,25.00%,1.43%,1.69%,24.11%,30.15%
+36,"Multiple choice","The ______ layer is responsible for moving frames from one hop (node) to the ...",40,42.50%,50.06%,25.00%,1.43%,1.10%,7.11%,8.87%
+37,"Multiple choice","The ______ layer is responsible for the source-to-destination delivery of a ...",40,57.50%,50.06%,25.00%,1.43%,2.10%,41.67%,52.41%
+38,"Multiple choice","The _______ is the physical path over which a message travels.",40,60.00%,49.61%,25.00%,1.43%,2.09%,41.57%,52.53%
+39,"Multiple choice","The _______ layer changes bits into electromagnetic signals.",40,60.00%,49.61%,25.00%,1.43%,1.82%,29.86%,37.69%
+40,"Multiple choice","The _______ layer coordinates the functions required to transmit a bit stream...",40,47.50%,50.57%,25.00%,1.43%,1.53%,18.77%,23.01%
+41,"Multiple choice","The _______ layer ensures interoperability between communicating devices ...",40,40.00%,49.61%,25.00%,1.43%,1.05%,6.06%,7.49%
+42,"Multiple choice","The _______ layer is responsible for delivering data units from one station ...",40,20.00%,40.51%,25.00%,1.43%,,-7.22%,-9.80%
+43,"Multiple choice","The _______ layer is the layer closest to the transmission medium.",40,37.50%,49.03%,25.00%,1.43%,2.08%,41.92%,52.44%
+44,"Multiple choice","The _______ layer lies between the network layer and the application layer.",40,42.50%,50.06%,25.00%,1.43%,2.11%,42.10%,51.88%
+45,"Multiple choice","The _______ layer links the network support layers and the user support layers.",40,17.50%,38.48%,25.00%,1.43%,1.28%,18.12%,25.47%
+46,"Multiple choice","The _______ model shows how the network functions of a computer ought to be ...",40,70.00%,46.41%,25.00%,1.43%,2.05%,43.37%,58.26%
+47,"Multiple choice","The ________ address, also known as the link address, is the address of a ...",40,40.00%,49.61%,25.00%,1.43%,1.81%,29.61%,36.39%
+48,"Multiple choice","The ________ address, also known as the link address, is the address of a ...",40,22.50%,42.29%,25.00%,1.43%,2.37%,67.01%,88.62%
+49,"Multiple choice","The ________ layer is responsible for the process-to-process delivery of the ...",40,70.00%,46.41%,25.00%,1.43%,1.76%,30.21%,39.83%
+50,"Multiple choice","The _________ layer enables the users to access the network.",40,55.00%,50.38%,25.00%,1.43%,2.24%,48.05%,59.76%
+51,"Multiple choice","The_____ address identifies a process on a host.",40,17.50%,38.48%,25.00%,1.43%,1.66%,33.72%,47.07%
+52,"Multiple choice","The_________ layer is responsible for the delivery of a message from one ...",40,57.50%,50.06%,25.00%,1.43%,1.23%,10.25%,12.65%
+53,"Multiple choice","This was the first network.",40,90.00%,30.38%,25.00%,1.43%,1.54%,38.35%,75.10%
+54,"Multiple choice","To deliver a message to the correct application program running on a host, ...",40,25.00%,43.85%,25.00%,1.43%,1.39%,18.24%,23.68%
+55,"Multiple choice","When a host on network A sends a message to a host on network B, which ...",40,42.50%,50.06%,25.00%,1.43%,1.15%,8.29%,10.27%
+56,"Multiple choice","When data are transmitted from device A to device B, the header from A's ...",40,40.00%,49.61%,25.00%,1.43%,1.43%,16.25%,19.97%
+57,"Multiple choice","Which agency developed standards for physical connection interfaces and ...",40,12.50%,33.49%,25.00%,1.43%,1.36%,25.54%,39.09%
+58,"Multiple choice","Which of the following is an application layer service?",40,57.50%,50.06%,25.00%,1.43%,2.01%,37.37%,46.77%
+59,"Multiple choice","Which organization has authority over interstate and international commerce ...",40,12.50%,33.49%,25.00%,1.43%,1.95%,57.19%,87.65%
+60,"Multiple choice","Which topology requires a central controller or hub?",40,72.50%,45.22%,25.00%,1.43%,2.00%,42.11%,57.46%
+61,"Multiple choice","Which topology requires a multipoint connection?",40,27.50%,45.22%,25.00%,1.43%,1.58%,24.04%,30.59%
+62,"Multiple choice","Why was the OSI model developed?",40,65.00%,48.30%,25.00%,1.43%,1.19%,9.90%,12.84%
+63,"Multiple choice","_____ refers to two characteristics: when data should be sent and how fast it...",40,2.50%,15.81%,25.00%,1.43%,,-33.04%,-99.17%
+64,"Multiple choice","______ refers to the physical or logical arrangement of a network.",40,72.50%,45.22%,25.00%,1.43%,1.91%,38.05%,51.10%
+65,"Multiple choice","_______ are special-interest groups that quickly test, evaluate, and ...",40,10.00%,30.38%,25.00%,1.43%,1.25%,23.95%,39.30%
+66,"Multiple choice","_______ is a process-to-process protocol that adds only port addresses, ...",40,7.50%,26.67%,25.00%,1.43%,0.48%,1.51%,2.84%
+67,"Multiple choice","_______ is the protocol suite for the current Internet.",40,87.50%,33.49%,25.00%,1.43%,1.67%,40.36%,70.49%
+68,"Multiple choice","_______ refers to the structure or format of the data, meaning the order in ...",40,37.50%,49.03%,25.00%,1.43%,1.71%,26.36%,33.02%
+69,"Multiple choice","________ defines how a particular pattern to be interpreted, and what action ...",40,55.00%,50.38%,25.00%,1.43%,,-11.46%,-14.12%
+70,"Multiple choice","__________ provides full transport layer services to applications.",40,10.00%,30.38%,25.00%,1.43%,,-26.21%,-43.77%

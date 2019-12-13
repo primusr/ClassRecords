@@ -1,0 +1,53 @@
+"Quiz name","Course name","Open the quiz","Number of complete graded first attempts","Total number of complete graded attempts","Average grade of first attempts","Average grade of all attempts","Average grade of last attempts","Average grade of highest graded attempts","Median grade (for highest graded attempt)","Standard deviation (for highest graded attempt)","Score distribution skewness (for highest graded attempt)","Score distribution kurtosis (for highest graded attempt)","Coefficient of internal consistency (for highest graded attempt)","Error ratio (for highest graded attempt)","Standard error (for highest graded attempt)"
+"Prelim Exam","ITE16 - Multimedia Systems","Friday, 2 June 2017, 8:55 AM",72,72,57.03%,57.03%,57.03%,57.03%,56.00%,10.74%,0.0083,-0.9627,69.56%,55.18%,5.92%
+Q#,"Question type","Question name",Attempts,"Facility index","Standard deviation","Random guess score","Intended weight","Effective weight","Discrimination index","Discriminative efficiency"
+1,"Multiple choice","A browser is used to view:",72,94.44%,23.07%,20.00%,2.00%,1.42%,15.22%,34.69%
+2,"Multiple choice","A collection of programs used to create, broadcast, and receive podcasts.",72,22.22%,41.87%,25.00%,2.00%,1.23%,0.21%,0.29%
+3,"Multiple choice","A computer that is configured to play multimedia projects, as contrasted with...",72,19.44%,39.85%,25.00%,2.00%,1.71%,8.99%,12.70%
+4,"Multiple choice","A high-speed serial technology for connecting peripherals to a computer; ...",72,45.83%,50.18%,25.00%,2.00%,2.52%,19.34%,23.01%
+5,"Multiple choice","A program used to capture, edit and manipulate video images, add effects, ...",72,90.28%,29.83%,25.00%,2.00%,0.88%,0.24%,0.45%
+6,"Multiple choice","A project that is shipped or sold to consumers or end users, typically in a ...",72,20.83%,40.90%,25.00%,2.00%,,-8.05%,-11.09%
+7,"Multiple choice","A small piece of software that adds features to or enhances a larger piece of...",72,34.72%,47.94%,25.00%,2.00%,2.23%,14.38%,17.47%
+8,"Multiple choice","A small removable storage medium used to store data in digital input devices ...",72,86.11%,34.83%,25.00%,2.00%,2.23%,25.74%,41.64%
+9,"Multiple choice","A solid-state memory that can be erased and reprogrammed; gets its name ...",72,73.61%,44.38%,25.00%,2.00%,2.80%,32.15%,42.99%
+10,"Multiple choice","A storage device that encodes data as microscopic magnetized needles on the ...",72,72.22%,45.10%,25.00%,2.00%,2.34%,18.88%,25.30%
+11,"Multiple choice","A storage device that records data by burning microscopic holes in the ...",72,68.06%,46.95%,25.00%,2.00%,2.11%,12.57%,16.04%
+12,"Multiple choice","A unit of storage measuring roughly one billion bytes.",72,55.56%,50.04%,25.00%,2.00%,2.69%,23.51%,28.42%
+13,"Multiple choice","A unit of storage measuring roughly one million bytes.",72,54.17%,50.18%,25.00%,2.00%,0.68%,-7.26%,-8.75%
+14,"Multiple choice","A unit of storage measuring roughly one trillion bytes.",72,77.78%,41.87%,25.00%,2.00%,2.53%,26.82%,37.04%
+15,"Multiple choice","A _____ multimedia project allows users to sit back and watch it just as they...",72,47.22%,50.27%,25.00%,2.00%,1.52%,0.83%,1.00%
+16,"Multiple choice","A _____ program usually allows common elements, such as backgrounds and ...",72,65.28%,47.94%,25.00%,2.00%,2.99%,33.71%,42.36%
+17,"Multiple choice","According to one source, in interactive multimedia presentations where you ...",72,23.61%,42.77%,20.00%,2.00%,1.69%,6.98%,9.38%
+18,"Multiple choice","An audio broadcast that has been converted to an MP3 file or other audio file...",72,56.94%,49.86%,25.00%,2.00%,3.29%,40.78%,49.43%
+19,"Multiple choice","An expansion device (internal or external) that digitizes full-motion video ...",72,41.67%,49.65%,25.00%,2.00%,1.63%,2.70%,3.24%
+20,"Multiple choice","An external serial bus standard that supports data transfer rates of 480 mbps...",72,58.33%,49.65%,25.00%,2.00%,2.10%,10.68%,13.11%
+21,"Multiple choice","An _____ is a software package which allow developers to write hypertext and ...",72,34.72%,47.94%,25.00%,2.00%,3.49%,49.89%,60.79%
+22,"Multiple choice","Capturing, processing and presentation devices are categorized as _____.",72,70.83%,45.77%,20.00%,2.00%,1.71%,5.73%,7.46%
+23,"Multiple choice","CD and DVD _____ are used for reading and making discs.",72,27.78%,45.10%,25.00%,2.00%,1.99%,11.36%,14.68%
+24,"Multiple choice","DVD stands for:",72,16.67%,37.53%,20.00%,2.00%,2.11%,19.78%,29.98%
+25,"Multiple choice","Genealogy software is used to",72,40.28%,49.39%,20.00%,2.00%,2.33%,15.58%,18.71%
+26,"Multiple choice","HTML and DHTML web pages or sites are generally viewed using a _____.",72,94.44%,23.07%,25.00%,2.00%,1.14%,8.32%,19.52%
+27,"Multiple choice","In this type of authoring program, events are thought of as cast members and ...",72,73.61%,44.38%,25.00%,2.00%,2.56%,25.31%,33.75%
+28,"Multiple choice","In _____ authoring programs, the elements of the program are organized along ...",72,83.33%,37.53%,25.00%,2.00%,2.15%,20.74%,30.97%
+29,"Multiple choice","LAN stands for:",72,100.00%,0.00%,20.00%,2.00%,0.00%,,
+30,"Multiple choice","PDA stands for:",72,29.17%,45.77%,20.00%,2.00%,2.60%,24.88%,31.75%
+31,"Multiple choice","Programs designed to record audio files.",72,93.06%,25.60%,25.00%,2.00%,,-16.37%,-34.28%
+32,"Multiple choice","Programs used to create bitmap images; useful in creating original art ...",72,38.89%,49.09%,25.00%,2.00%,1.27%,-1.88%,-2.25%
+33,"Multiple choice","Programs used to create graphic presentations with visual aids, handouts, ...",72,75.00%,43.61%,25.00%,2.00%,2.60%,27.00%,36.53%
+34,"Multiple choice","Programs used to design and create single web pages or entire web site.",72,47.22%,50.27%,25.00%,2.00%,3.00%,31.64%,37.65%
+35,"Multiple choice","Sources, filters and sinks falls under _____.",72,26.39%,44.38%,20.00%,2.00%,3.07%,40.65%,52.48%
+36,"Multiple choice","Storage devices like CD-ROM, floppy drive, hard drive, network interface, and...",72,50.00%,50.35%,20.00%,2.00%,2.84%,27.12%,32.48%
+37,"Multiple choice","televisions, and similar devices.",72,77.78%,41.87%,25.00%,2.00%,1.10%,-1.40%,-1.94%
+38,"Multiple choice","The ""ROM"" in ""CD-ROM"" stands for:",72,79.17%,40.90%,25.00%,2.00%,3.01%,43.11%,61.84%
+39,"Multiple choice","The glass fiber cables that make up much of the physical backbone of the data...",72,18.06%,38.73%,20.00%,2.00%,0.63%,-4.96%,-7.21%
+40,"Multiple choice","The software vehicle, the messages, and the content presented on a computer ...",72,65.28%,47.94%,20.00%,2.00%,2.97%,33.13%,41.65%
+41,"Multiple choice","True or false. Probably the weakest feature of PC's in the 80's in context of...",72,77.78%,41.87%,50.00%,2.00%,1.89%,11.27%,15.36%
+42,"Multiple choice","VR stands for:",72,91.67%,27.83%,20.00%,2.00%,1.79%,20.59%,41.05%
+43,"Multiple choice","Which of the following allows allows an end user to control what and when the...",72,38.89%,49.09%,25.00%,2.00%,2.69%,24.42%,29.37%
+44,"Multiple choice","Which of the following devices enable a user to have a direct control over ...",72,47.22%,50.27%,20.00%,2.00%,3.25%,38.92%,46.31%
+45,"Multiple choice","Which of the following is displayable on a web page after installation of a ...",72,76.39%,42.77%,20.00%,2.00%,2.70%,30.75%,41.76%
+46,"Multiple choice","Which of the following is not a technology likely to prevail as a delivery ...",72,15.28%,36.23%,20.00%,2.00%,2.21%,23.62%,36.80%
+47,"Multiple choice","Which of the following refers to any combination of text, graphic art, sound,...",72,79.17%,40.90%,25.00%,2.00%,2.16%,18.16%,25.34%
+48,"Multiple choice","Which of the following refers to software tools designed to manage individual...",72,20.83%,40.90%,25.00%,2.00%,,-10.58%,-14.75%
+49,"Multiple choice","Which one of the following is not/are not typically part of a multimedia ...",72,97.22%,16.55%,20.00%,2.00%,0.84%,6.49%,20.33%
+50,"Multiple choice","_____ authoring programs are designed around a visual programming approach to...",72,56.94%,49.86%,25.00%,2.00%,3.33%,41.92%,50.09%

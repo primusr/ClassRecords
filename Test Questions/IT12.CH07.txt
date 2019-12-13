@@ -1,0 +1,97 @@
+Transmission media are usually categorized as _______.{
+	~fixed or unfixed
+	=guided or unguided
+	~determinate or indeterminate
+	~metallic or nonmetallic
+}
+
+Transmission media lie below the _______ layer.{
+	=physical
+	~network
+	~transport
+	~application
+}
+
+_______ cable consists of an inner copper core and a second conducting outer sheath.{
+	~Twisted-pair
+	=Coaxial
+	~Fiber-optic
+	~Shielded twisted-pair
+}
+
+In fiber optics, the signal is _______ waves.{
+	=light
+	~radio
+	~infrared
+	~very low-frequency
+}
+ 
+Which of the following is not a guided medium?{
+	~twisted-pair cable
+	~coaxial cable
+	~fiber-optic cable
+	=atmosphere
+}
+
+Which of the following is not an unguided medium?{
+	twisted-pair cable
+	~coaxial cable
+	~fiber-optic cable
+	=None of the choices are correct.
+}
+
+Twisting in a twisted-pair help reduce the __________.{
+	~length
+	~cost
+	=noise
+	~None of the choices are correct.
+}
+
+Noise in a coaxial cable is reduced by ___________________.{
+	~twisting the cable
+	=the outer conductor
+	~the inner conductor
+	~None of the choices are correct.
+}
+ 
+UTP and STP are different implementations of ___________________ cable.{
+	=twisted-pair
+	~coaxial
+	~fiber-optic
+	~None of the choices are correct.
+}
+		
+RJ-45 is a type of connectors used in _________ cabling.{
+	=twisted-pair
+	~coaxial
+	~fiber-optic
+	~None of the choices are correct.
+}
+ 
+RG rating is used in _________ cable.{
+	~twisted-pair
+	=coaxial
+	~fiber-optic
+	~None of the choices are correct.
+}
+ 
+SC and TP are two types of connectors used in _________ cabling.{
+	~twisted-pair
+	~coaxial
+	=fiber-optic
+	~None of the choices are correct.
+}
+ 
+The infrared wave has frequencies ________ microwave.{
+	=below
+	~above
+	~the same as
+	~None of the choices are correct.
+}
+ 
+BNC is a type of connectors used in _________ cabling.{
+	~twisted-pair
+	=coaxial
+	~fiber-optic
+	~None of the choices are correct.
+}

@@ -1,0 +1,103 @@
+"Quiz name","Course name","Open the quiz","Number of complete graded first attempts","Total number of complete graded attempts","Average grade of first attempts","Average grade of all attempts","Average grade of last attempts","Average grade of highest graded attempts","Median grade (for highest graded attempt)","Standard deviation (for highest graded attempt)","Score distribution skewness (for highest graded attempt)","Score distribution kurtosis (for highest graded attempt)","Coefficient of internal consistency (for highest graded attempt)","Error ratio (for highest graded attempt)","Standard error (for highest graded attempt)"
+"Final Exam","IT 12 - Data Communication With Networking","Wednesday, 26 July 2017, 2:35 PM",37,37,36.59%,36.59%,36.59%,36.59%,36.00%,7.62%,0.6054,-0.0902,64.81%,59.33%,4.52%
+Q#,"Question type","Question name",Attempts,"Facility index","Standard deviation","Random guess score","Intended weight","Effective weight","Discrimination index","Discriminative efficiency"
+1,"Multiple choice","A Bluetooth network consists of _____ primary device(s) and up to ____ ...",37,27.03%,45.02%,25.00%,1.00%,0.54%,-1.82%,-2.37%
+2,"Multiple choice","A _______ certifies the binding between a public key and its owner.",37,37.84%,49.17%,25.00%,1.00%,,-22.70%,-28.21%
+3,"Multiple choice","A _______ is a trusted third party that solves the problem of symmetric-key ...",37,24.32%,43.50%,25.00%,1.00%,1.78%,41.09%,53.85%
+4,"Multiple choice","After a message is encrypted, it is called _______.",37,21.62%,41.73%,25.00%,1.00%,1.30%,20.31%,26.41%
+5,"Multiple choice","Bluetooth is a _______ technology that connects devices (called gadgets) in a...",37,81.08%,39.71%,25.00%,1.00%,1.02%,11.54%,19.36%
+6,"Multiple choice","Bluetooth uses ______ in the physical layer to avoid interference from other ...",37,37.84%,49.17%,25.00%,1.00%,0.67%,-0.76%,-0.94%
+7,"Multiple choice","BNC is a type of connectors used in _________ cabling.",37,40.54%,49.77%,25.00%,1.00%,1.58%,25.48%,31.58%
+8,"Multiple choice","Circuit switching can be divided into ________ categories.",37,8.11%,27.67%,25.00%,1.00%,,-28.09%,-43.55%
+9,"Multiple choice","Circuit switching is normally used in ___________ layer.",37,45.95%,50.52%,25.00%,1.00%,1.57%,24.76%,30.72%
+10,"Multiple choice","Digital signature does not provide _________.",37,21.62%,41.73%,25.00%,1.00%,1.16%,14.96%,19.29%
+11,"Multiple choice","IEEE has defined the specifications for a wireless LAN, called _______, which...",37,75.68%,43.50%,25.00%,1.00%,1.26%,17.40%,25.82%
+12,"Multiple choice","In a circuit-switching network, we have ___________ phase(s).",37,35.14%,48.40%,25.00%,1.00%,1.34%,17.42%,21.58%
+13,"Multiple choice","In a datagram network, the destination address ________________________.",37,29.73%,46.34%,25.00%,1.00%,0.56%,-1.79%,-2.28%
+14,"Multiple choice","In a datagram network, the routing table is based on the ___________ in the ...",37,70.27%,46.34%,25.00%,1.00%,1.04%,8.56%,11.90%
+15,"Multiple choice","In a datagram network, we have ___________ phase(s).",37,51.35%,50.67%,25.00%,1.00%,,-7.56%,-9.37%
+16,"Multiple choice","In a datagram network, we need ______________ phase(s).",37,5.41%,22.92%,25.00%,1.00%,,-17.53%,-31.73%
+17,"Multiple choice","In a virtual-circuit network, the routing table is based on the ___________ ...",37,56.76%,50.22%,25.00%,1.00%,0.85%,2.50%,3.14%
+18,"Multiple choice","In a virtual-circuit network, we need ______________ phase(s).",37,67.57%,47.46%,25.00%,1.00%,1.54%,25.81%,35.13%
+19,"Multiple choice","In a virtual-switch network, we have ___________ phase(s).",37,40.54%,49.77%,25.00%,1.00%,,-21.58%,-26.60%
+20,"Multiple choice","In a __________network, all packets in a message follow the same path.",37,21.62%,41.73%,25.00%,1.00%,,-15.63%,-20.26%
+21,"Multiple choice","In a __________network, each packet in a message may follow a different path.",37,24.32%,43.50%,25.00%,1.00%,0.71%,1.54%,2.00%
+22,"Multiple choice","In a ___________ network, each packet is treated independently from all other...",37,27.03%,45.02%,25.00%,1.00%,1.46%,24.47%,31.74%
+23,"Multiple choice","In Bluetooth, multiple ________ form a network called a _________.",37,51.35%,50.67%,25.00%,1.00%,,-8.98%,-11.25%
+24,"Multiple choice","In Bluetooth, the current data rate is ____Mbps.",37,27.03%,45.02%,25.00%,1.00%,,-13.86%,-17.82%
+25,"Multiple choice","In Bluetooth, the _____ link is used when data integrity is more important ...",37,43.24%,50.22%,25.00%,1.00%,1.60%,26.19%,32.36%
+26,"Multiple choice","In CDMA, we use different ___________ to achieve channelization.",37,18.92%,39.71%,25.00%,1.00%,1.04%,12.17%,16.22%
+27,"Multiple choice","In FDMA, we use different ___________ to achieve channelization.",37,56.76%,50.22%,25.00%,1.00%,0.82%,1.77%,2.24%
+28,"Multiple choice","In IEEE 802.11, a BSS with an AP is sometimes referred to as ____________.",37,29.73%,46.34%,25.00%,1.00%,,-8.83%,-11.30%
+29,"Multiple choice","In IEEE 802.11, a BSS without an AP is called _________.",37,37.84%,49.17%,25.00%,1.00%,1.71%,31.81%,39.98%
+30,"Multiple choice","In IEEE 802.11, a station with ________ mobility can move from one ESS to ...",37,51.35%,50.67%,25.00%,1.00%,1.71%,30.49%,37.88%
+31,"Multiple choice","In IEEE 802.11, a station with ________ mobility is either stationary (not ...",37,18.92%,39.71%,25.00%,1.00%,1.52%,31.91%,41.08%
+32,"Multiple choice","In IEEE 802.11, a station with ________mobility can move from one BSS to ...",37,37.84%,49.17%,25.00%,1.00%,0.75%,0.72%,0.90%
+33,"Multiple choice","In IEEE 802.11, a ___ is made of stationary or mobile wireless stations and ...",37,32.43%,47.46%,25.00%,1.00%,1.29%,16.13%,20.20%
+34,"Multiple choice","In IEEE 802.11, communication between two stations in two different BSSs ...",37,48.65%,50.67%,25.00%,1.00%,1.51%,21.98%,26.82%
+35,"Multiple choice","In IEEE 802.11, distributed coordination function (DCF) uses _______ as the ...",37,32.43%,47.46%,25.00%,1.00%,,-50.13%,-62.99%
+36,"Multiple choice","In IEEE 802.11, the access method used in the PCF sublayer is ______.",37,27.03%,45.02%,25.00%,1.00%,1.61%,31.17%,40.27%
+37,"Multiple choice","In IEEE 802.11, the addressing mechanism can include up to ______addresses.",37,27.03%,45.02%,25.00%,1.00%,0.34%,-4.24%,-5.42%
+38,"Multiple choice","In IEEE 802.11, the ______ is a time period used for collision avoidance.",37,37.84%,49.17%,25.00%,1.00%,1.63%,27.95%,34.89%
+39,"Multiple choice","In IEEE 802.11, when a frame is coming from an AP and going to a station, the...",37,27.03%,45.02%,25.00%,1.00%,1.23%,15.34%,19.59%
+40,"Multiple choice","In IEEE 802.11, when a frame is going from a station to an AP, the address ...",37,18.92%,39.71%,25.00%,1.00%,,-34.15%,-44.43%
+41,"Multiple choice","In IEEE 802.11, when a frame is going from one AP to another AP in a wireless...",37,37.84%,49.17%,25.00%,1.00%,1.40%,18.77%,23.13%
+42,"Multiple choice","In IEEE 802.11, when a frame is going from one station in a BSS to another ...",37,18.92%,39.71%,25.00%,1.00%,0.67%,1.99%,2.57%
+43,"Multiple choice","In RSA, if user A wants to send an encrypted message to user B, the plaintext...",37,29.73%,46.34%,25.00%,1.00%,1.81%,39.31%,50.38%
+44,"Multiple choice","In TDMA, we use different ___________ to achieve channelization.",37,24.32%,43.50%,25.00%,1.00%,1.92%,49.04%,63.27%
+45,"Multiple choice","In the 1-persistent approach, when a station finds an idle line, it _______.",37,37.84%,49.17%,25.00%,1.00%,,-8.14%,-9.94%
+46,"Multiple choice","In the asymmetric-key method used for confidentiality, the receiver uses ...",37,10.81%,31.48%,25.00%,1.00%,1.22%,25.82%,37.35%
+47,"Multiple choice","In the asymmetric-key method used for confidentiality, which key is publicly ...",37,16.22%,37.37%,25.00%,1.00%,1.09%,15.15%,20.43%
+48,"Multiple choice","In the digital signature technique when the whole message is signed using an ...",37,37.84%,49.17%,25.00%,1.00%,0.98%,5.94%,7.38%
+49,"Multiple choice","In the digital signature technique when the whole message is signed using an ...",37,29.73%,46.34%,25.00%,1.00%,,-10.39%,-13.17%
+50,"Multiple choice","In the p-persistent approach, when a station finds an idle line, it _______.",37,35.14%,48.40%,25.00%,1.00%,1.06%,8.22%,10.34%
+51,"Multiple choice","In the reservation access method, if there are 10 stations on a network, then...",37,48.65%,50.67%,25.00%,1.00%,0.60%,-2.12%,-2.63%
+52,"Multiple choice","In the _______ random-access method collision is avoided.",37,29.73%,46.34%,25.00%,1.00%,1.66%,31.91%,40.65%
+53,"Multiple choice","In the _______ random-access method, stations do not sense the medium.",37,37.84%,49.17%,25.00%,1.00%,1.33%,16.49%,20.54%
+54,"Multiple choice","In _________ cryptography, the same key is used in both directions.",37,48.65%,50.67%,25.00%,1.00%,1.88%,38.48%,48.17%
+55,"Multiple choice","In __________ cryptography, everyone has access to everyone's public key.",37,35.14%,48.40%,25.00%,1.00%,1.30%,15.88%,19.69%
+56,"Multiple choice","In __________cryptography, the same key is used by the sender and the receiver.",37,59.46%,49.77%,25.00%,1.00%,2.00%,45.33%,57.69%
+57,"Multiple choice","In ___________, the identity of a party is verified once for the entire ...",37,56.76%,50.22%,25.00%,1.00%,1.76%,33.01%,42.14%
+58,"Multiple choice","Message switching is normally used in ___________ layer.",37,13.51%,34.66%,25.00%,1.00%,0.68%,3.90%,5.39%
+59,"Multiple choice","Noise in a coaxial cable is reduced by ___________________.",37,27.03%,45.02%,25.00%,1.00%,1.85%,43.04%,55.20%
+60,"Multiple choice","Packet switching can be divided into ________ categories.",37,32.43%,47.46%,25.00%,1.00%,,-19.94%,-25.29%
+61,"Multiple choice","Packet switching is normally used in ___________ layers.",37,29.73%,46.34%,25.00%,1.00%,1.59%,28.64%,36.19%
+62,"Multiple choice","RG rating is used in _________ cable.",37,48.65%,50.67%,25.00%,1.00%,0.94%,4.38%,5.40%
+63,"Multiple choice","RJ-45 is a type of connectors used in _________ cabling.",37,75.68%,43.50%,25.00%,1.00%,1.37%,21.69%,32.11%
+64,"Multiple choice","SC and TP are two types of connectors used in _________ cabling.",37,37.84%,49.17%,25.00%,1.00%,0.46%,-3.72%,-4.66%
+65,"Multiple choice","The 1-persistent approach can be considered a special case of the ...",37,40.54%,49.77%,25.00%,1.00%,1.72%,31.57%,39.34%
+66,"Multiple choice","The access method in Bluetooth is ________.",37,43.24%,50.22%,25.00%,1.00%,,-30.35%,-37.56%
+67,"Multiple choice","The CSMA/CD algorithm does not work in wireless LAN because",37,45.95%,50.52%,25.00%,1.00%,0.76%,0.51%,0.64%
+68,"Multiple choice","The IEEE 802.11 FHSS uses ______ modulation.",37,32.43%,47.46%,25.00%,1.00%,1.22%,13.78%,17.45%
+69,"Multiple choice","The IEEE 802.11 or IEEE 802.11b DSSS uses ______ modulation.",37,54.05%,50.52%,25.00%,1.00%,1.05%,7.20%,9.02%
+70,"Multiple choice","The IEEE 802.11a uses _________.",37,18.92%,39.71%,25.00%,1.00%,1.04%,12.17%,15.83%
+71,"Multiple choice","The IEEE 802.11a, IEEE 802.11g, or IEEE 802.11n OFDM uses ______ modulation.",37,8.11%,27.67%,25.00%,1.00%,0.49%,1.92%,2.95%
+72,"Multiple choice","The IEEE 802.11b uses _________.",37,29.73%,46.34%,25.00%,1.00%,1.43%,22.14%,28.09%
+73,"Multiple choice","The IEEE 802.11g uses _________.",37,35.14%,48.40%,25.00%,1.00%,0.65%,-0.88%,-1.10%
+74,"Multiple choice","The infrared wave has frequencies ________ microwave.",37,18.92%,39.71%,25.00%,1.00%,1.38%,25.29%,33.06%
+75,"Multiple choice","The original IEEE 802.11 uses _________.",37,29.73%,46.34%,25.00%,1.00%,0.91%,5.32%,6.82%
+76,"Multiple choice","The RSA algorithm for confidentiality uses _______ cryptography.",37,40.54%,49.77%,25.00%,1.00%,1.85%,37.71%,46.81%
+77,"Multiple choice","The vulnerable time for a pure ALOHA is __________ the one for slotted ALOHA.",37,48.65%,50.67%,25.00%,1.00%,,-7.85%,-9.68%
+78,"Multiple choice","The vulnerable time for CSMA is ___________.",37,32.43%,47.46%,25.00%,1.00%,1.40%,20.06%,25.56%
+79,"Multiple choice","Three security goals are _______________________________________.",37,35.14%,48.40%,25.00%,1.00%,1.47%,22.06%,27.51%
+80,"Multiple choice","Transmission media are usually categorized as _______.",37,56.76%,50.22%,25.00%,1.00%,1.74%,32.25%,41.19%
+81,"Multiple choice","Transmission media lie below the _______ layer.",37,45.95%,50.52%,25.00%,1.00%,1.40%,18.07%,22.52%
+82,"Multiple choice","Twisting in a twisted-pair help reduce the __________.",37,78.38%,41.73%,25.00%,1.00%,1.71%,39.75%,62.23%
+83,"Multiple choice","UTP and STP are different implementations of ___________________ cable.",37,70.27%,46.34%,25.00%,1.00%,1.45%,23.01%,31.73%
+84,"Multiple choice","Walsh tables are used in _________________.",37,35.14%,48.40%,25.00%,1.00%,1.91%,42.50%,53.32%
+85,"Multiple choice","We need RTS and CTS packets in ____________ protocol.",37,27.03%,45.02%,25.00%,1.00%,,-6.66%,-8.52%
+86,"Multiple choice","Which of the following attacks is threatening availability?",37,62.16%,49.17%,25.00%,1.00%,1.71%,31.54%,41.36%
+87,"Multiple choice","Which of the following attacks is threatening integrity?",37,40.54%,49.77%,25.00%,1.00%,1.16%,10.46%,13.22%
+88,"Multiple choice","Which of the following is an example of a controlled-access protocol?",37,18.92%,39.71%,25.00%,1.00%,,-11.72%,-15.25%
+89,"Multiple choice","Which of the following is an example of a random-access protocol?",37,5.41%,22.92%,25.00%,1.00%,0.58%,6.24%,11.22%
+90,"Multiple choice","Which of the following statements about wired and wireless LANs is correct?",37,8.11%,27.67%,25.00%,1.00%,1.05%,21.86%,33.97%
+91,"Multiple choice","_______ is (are) a channelization protocol.",37,51.35%,50.67%,25.00%,1.00%,1.33%,15.62%,19.60%
+92,"Multiple choice","_______ is a controlled-access protocol.",37,10.81%,31.48%,25.00%,1.00%,,-37.57%,-53.96%
+93,"Multiple choice","_______ requires one primary station and one or more secondary stations.",37,24.32%,43.50%,25.00%,1.00%,0.67%,0.70%,0.89%
+94,"Multiple choice","_________ cryptography is often used for long messages.",37,40.54%,49.77%,25.00%,1.00%,0.99%,6.01%,7.48%
+95,"Multiple choice","__________means that the sender and the receiver expect confidentiality.",37,5.41%,22.92%,25.00%,1.00%,0.79%,14.24%,26.29%
+96,"Multiple choice","___________ cryptography is often used for short messages.",37,35.14%,48.40%,25.00%,1.00%,1.06%,8.22%,10.14%
+97,"Multiple choice","___________ means that the data must arrive at the receiver exactly as they ...",37,70.27%,46.34%,25.00%,1.00%,1.43%,22.20%,30.63%
+98,"Multiple choice","_____________ means concealing the contents of a message by enciphering.",37,48.65%,50.67%,25.00%,1.00%,1.37%,16.80%,20.95%
+99,"Multiple choice","______________ can provide authentication, integrity, and nonrepudiation for ...",37,54.05%,50.52%,25.00%,1.00%,1.08%,7.93%,9.84%
+100,"Multiple choice","______________means concealing the message by covering it with something else.",37,21.62%,41.73%,25.00%,1.00%,0.50%,-1.77%,-2.33%
